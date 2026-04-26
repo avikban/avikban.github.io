@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: April 25, 2026
+# 🚀 Daily Tech Pulse: April 26, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[National Quantum Algorithm Center at the IQMP Announces Grand Challenges Awards](https://thequantuminsider.com/2026/04/24/national-quantum-algorithm-center-iqmp-grand-challenges-awards/)** 
-  _Fri, 24 Apr 2026 14:50:41 +0000_
+* **[Quantropi Moves Toward Public Listing Through Mandeville Merger](https://thequantuminsider.com/2026/04/25/quantropi-moves-toward-public-listing-through-mandeville-merger/)** 
+  _Sat, 25 Apr 2026 18:54:14 +0000_
 
-* **[15-Bit ECC Key Broken on Quantum Hardware Wins Q-Day Prize](https://thequantuminsider.com/2026/04/24/project-eleven-q-day-prize-quantum-ecc-attack/)** 
-  _Fri, 24 Apr 2026 13:47:50 +0000_
+* **[Coinbase Advisers Warn Quantum Computing Will Crack Blockchain Encryption — And The Window to Prepare Is Narrowing](https://thequantuminsider.com/2026/04/25/coinbase-advisers-warn-quantum-computing-will-crack-blockchain-encryption-and-the-window-to-prepare-is-narrowing/)** 
+  _Sat, 25 Apr 2026 11:43:09 +0000_
 
-* **[Cisco Unveils Prototype to Link Quantum Computers Into a Network](https://thequantuminsider.com/2026/04/24/cisco-unveils-prototype-to-link-quantum-computers-into-a-network/)** 
-  _Fri, 24 Apr 2026 08:05:50 +0000_
+* **[Podcast with Tom Darras, CEO and co-founder, Welinq](https://thequantuminsider.com/2026/04/25/podcast-with-tom-darras-ceo-and-co-founder-welinq/)** 
+  _Sat, 25 Apr 2026 07:00:00 +0000_
 
 ---
