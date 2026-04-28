@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: April 27, 2026
+# 🚀 Daily Tech Pulse: April 28, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Quantropi Moves Toward Public Listing Through Mandeville Merger](https://thequantuminsider.com/2026/04/25/quantropi-moves-toward-public-listing-through-mandeville-merger/)** 
-  _Sat, 25 Apr 2026 18:54:14 +0000_
+* **[IonQ Partners with Florida LambdaRail on Secure Network Project](https://thequantuminsider.com/2026/04/27/ionq-florida-lambdarail-quantum-safe-network/)** 
+  _Mon, 27 Apr 2026 12:26:01 +0000_
 
-* **[Coinbase Advisers Warn Quantum Computing Will Crack Blockchain Encryption — And The Window to Prepare Is Narrowing](https://thequantuminsider.com/2026/04/25/coinbase-advisers-warn-quantum-computing-will-crack-blockchain-encryption-and-the-window-to-prepare-is-narrowing/)** 
-  _Sat, 25 Apr 2026 11:43:09 +0000_
+* **[IQM to Deploy Quantum Computer to TOYO in Japan](https://thequantuminsider.com/2026/04/27/iqm-toyo-quantum-deployment/)** 
+  _Mon, 27 Apr 2026 11:49:51 +0000_
 
-* **[Podcast with Tom Darras, CEO and co-founder, Welinq](https://thequantuminsider.com/2026/04/25/podcast-with-tom-darras-ceo-and-co-founder-welinq/)** 
-  _Sat, 25 Apr 2026 07:00:00 +0000_
+* **[Quantum Art Extends Series A Funding to $140 Million with Participation from Global Financial Leaders](https://thequantuminsider.com/2026/04/27/quantum-art-extends-series-a-funding-to-140-million-with-participation-from-global-financial-leaders/)** 
+  _Mon, 27 Apr 2026 11:06:41 +0000_
 
 ---
