@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: April 28, 2026
+# 🚀 Daily Tech Pulse: April 29, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[IonQ Partners with Florida LambdaRail on Secure Network Project](https://thequantuminsider.com/2026/04/27/ionq-florida-lambdarail-quantum-safe-network/)** 
-  _Mon, 27 Apr 2026 12:26:01 +0000_
+* **[Fermilab Expands Quantum Workforce Pipeline with Student Program](https://thequantuminsider.com/2026/04/28/fermilab-quantum-science-program-graduates-2026/)** 
+  _Tue, 28 Apr 2026 18:53:27 +0000_
 
-* **[IQM to Deploy Quantum Computer to TOYO in Japan](https://thequantuminsider.com/2026/04/27/iqm-toyo-quantum-deployment/)** 
-  _Mon, 27 Apr 2026 11:49:51 +0000_
+* **[Infleqtion Awarded $1M U.S. Navy Contract to Advance Quantum Accelerated AI Software for Radio Signal Processing](https://thequantuminsider.com/2026/04/28/infleqtion-us-navy-contract-quirc-rf-signal-processing/)** 
+  _Tue, 28 Apr 2026 15:23:09 +0000_
 
-* **[Quantum Art Extends Series A Funding to $140 Million with Participation from Global Financial Leaders](https://thequantuminsider.com/2026/04/27/quantum-art-extends-series-a-funding-to-140-million-with-participation-from-global-financial-leaders/)** 
-  _Mon, 27 Apr 2026 11:06:41 +0000_
+* **[Florida’s First Quantum-Safe Corridor – LambdaRail and the New Shape of the State’s Quantum Push](https://thequantuminsider.com/2026/04/28/florida-quantum-safe-corridor-lambdarail-quantum-push/)** 
+  _Tue, 28 Apr 2026 15:08:19 +0000_
 
 ---
