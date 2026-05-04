@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 03, 2026
+# 🚀 Daily Tech Pulse: May 04, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,14 +13,14 @@
 
 ---
 ## Quantum Updates
-* **[QuantumDiamonds Deploys First Asian Quantum Sensing System QD m.1 at Taiwan’s iST](https://quantumcomputingreport.com/quantumdiamonds-deploys-first-asian-quantum-sensing-system-qd-m-1-at-taiwans-ist/)** 
-  _Sun, 03 May 2026 00:26:36 +0000_
+* **[Maryland Budget Secures Millions to Consolidate “Capital of Quantum” Status](https://quantumcomputingreport.com/maryland-budget-secures-millions-to-consolidate-capital-of-quantum-status/)** 
+  _Sun, 03 May 2026 03:35:07 +0000_
 
-* **[CQE Releases Unified Regional Strategy to Scale Midwest Quantum Workforce](https://quantumcomputingreport.com/cqe-releases-unified-regional-strategy-to-scale-midwest-quantum-workforce/)** 
-  _Sun, 03 May 2026 00:14:05 +0000_
+* **[TreQ Deploys Open-Architecture Quantum Computing Testbed in Oxfordshire, UK](https://quantumcomputingreport.com/treq-deploys-open-architecture-quantum-computing-testbed-in-oxfordshire-uk/)** 
+  _Sun, 03 May 2026 02:35:20 +0000_
 
-* **[Fermilab and Northern Illinois University Expand Quantum Workforce Pipeline with New Academic Initiatives](https://quantumcomputingreport.com/fermilab-and-northern-illinois-university-expand-quantum-workforce-pipeline-with-new-academic-initiatives/)** 
-  _Sat, 02 May 2026 23:55:33 +0000_
+* **[Qruise and Quantum Machines Automate 21-Qubit QPU Bring-Up at IQCC](https://quantumcomputingreport.com/qruise-and-quantum-machines-automate-21-qubit-qpu-bring-up-at-iqcc/)** 
+  _Sun, 03 May 2026 02:21:57 +0000_
 
 * **[IonQ CEO Says 2025 Marked Turning Point for Quantum Commercialization](https://thequantuminsider.com/2026/05/02/ionq-ceo-says-2025-marked-turning-point-for-quantum-commercialization/)** 
   _Sat, 02 May 2026 12:36:18 +0000_
