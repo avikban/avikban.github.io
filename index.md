@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 05, 2026
+# 🚀 Daily Tech Pulse: May 06, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Quantum eMotion Introduces eShield-Q for Cryptographic Security](https://thequantuminsider.com/2026/05/04/quantum-emotion-eshield-q-runtime-cryptographic-protection/)** 
-  _Mon, 04 May 2026 16:17:35 +0000_
+* **[QuantWare Raises $178 Million to Build Quantum Processors at an Industrial Scale](https://thequantuminsider.com/2026/05/05/quantware-raises-178-million-to-build-quantum-processors-at-an-industrial-scale/)** 
+  _Tue, 05 May 2026 16:16:11 +0000_
 
-* **[Magnon Research Advance could Pave the Way for Mini Quantum Computers](https://thequantuminsider.com/2026/05/04/magnon-research-advance-could-pave-the-way-for-mini-quantum-computers/)** 
-  _Mon, 04 May 2026 16:10:44 +0000_
+* **[In NASDAQ Debut, Horizon Quantum Reports It’s Scaling Up Software And Hardware Strategy](https://thequantuminsider.com/2026/05/05/in-nasdaq-debut-horizon-quantum-reports-its-scaling-up-software-and-hardware-strategy/)** 
+  _Tue, 05 May 2026 16:10:58 +0000_
 
-* **[ParityQC Demonstrates YZ-Plane Measurement-Based Quantum Computation](https://thequantuminsider.com/2026/05/04/yz-plane-mbqc-parityqc-architecture/)** 
-  _Mon, 04 May 2026 16:10:15 +0000_
+* **[Quantinuum And BMW Group Expand Quantum Computing Collaboration With New Multi-Year Partnership](https://thequantuminsider.com/2026/05/05/quantinuum-and-bmw-group-expand-quantum-computing-collaboration-with-new-multi-year-partnership/)** 
+  _Tue, 05 May 2026 13:06:54 +0000_
 
 ---
