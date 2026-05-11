@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 10, 2026
+# 🚀 Daily Tech Pulse: May 11, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,6 +13,15 @@
 
 ---
 ## Quantum Updates
+* **[Quantum Usage Entering a “Show Me” Phase as C-Suite Execs Want to See Measurable ROI](https://quantumcomputingreport.com/quantum-usage-entering-a-show-me-phase-as-c-suite-execs-demand-to-see-measurable-roi/)** 
+  _Sat, 09 May 2026 19:37:07 +0000_
+
+* **[CAS Cold Atom Technology Unveils Hanyuan-2 Dual-Core Neutral Atom System](https://quantumcomputingreport.com/cas-cold-atom-technology-unveils-hanyuan-2-dual-core-neutral-atom-system/)** 
+  _Sat, 09 May 2026 13:51:49 +0000_
+
+* **[Bloq Quantum Launches No-Code Platform to Accelerate Algorithm Development](https://quantumcomputingreport.com/bloq-quantum-launches-no-code-platform-to-accelerate-algorithm-development/)** 
+  _Sat, 09 May 2026 13:36:54 +0000_
+
 * **[SkyWater Technology Stockholders Approve Merger Agreement with IonQ](https://thequantuminsider.com/2026/05/09/skywater-technology-stockholders-approve-merger-agreement-with-ionq/)** 
   _Sat, 09 May 2026 09:06:00 +0000_
 
