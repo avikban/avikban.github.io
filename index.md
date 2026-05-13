@@ -1,25 +1,25 @@
-# 🚀 Daily Tech Pulse: May 12, 2026
+# 🚀 Daily Tech Pulse: May 13, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
+* **[Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads](https://spectrum.ieee.org/gigascale-ai-datacenter-power)** 
+  _Tue, 12 May 2026 17:15:15 +0000_
+
 * **[Chip Fab-in-a-Box Could Democratize Semiconductors](https://spectrum.ieee.org/inchfab)** 
   _Wed, 06 May 2026 14:00:01 +0000_
 
 * **[Ten Technology Enablers Shaping the Future of 6G Wireless](https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/)** 
   _Wed, 06 May 2026 10:00:02 +0000_
 
-* **[Chips Sense Free Radicals With Speed](https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip)** 
-  _Thu, 30 Apr 2026 15:00:01 +0000_
-
 ---
 ## Quantum Updates
-* **[NYU’s Quantum Institute, IBM Team Up for Postdoctoral Research Program in Quantum Computing](https://thequantuminsider.com/2026/05/11/nyus-quantum-institute-ibm-team-up-for-postdoctoral-research-program-in-quantum-computing/)** 
-  _Mon, 11 May 2026 15:18:49 +0000_
+* **[Quantum Computing Inc. Reports Higher Revenue Following Acquisitions](https://thequantuminsider.com/2026/05/12/quantum-computing-inc-reports-higher-revenue-following-acquisitions/)** 
+  _Tue, 12 May 2026 16:44:03 +0000_
 
-* **[What is Quantum Entanglement?](https://thequantuminsider.com/2026/05/11/what-is-quantum-entanglement/)** 
-  _Mon, 11 May 2026 12:58:34 +0000_
+* **[Photonic Inc. Closes Investment Round With Over $200 Million USD](https://thequantuminsider.com/2026/05/12/photonic-inc-closes-investment-round-with-over-200-million-usd/)** 
+  _Tue, 12 May 2026 15:27:23 +0000_
 
-* **[Grapefruit-Sized Quantum Sensor Mapped Earth’s Magnetic Field From Space](https://thequantuminsider.com/2026/05/11/grapefruit-sized-quantum-sensor-mapped-earths-magnetic-field-from-space/)** 
-  _Mon, 11 May 2026 11:31:30 +0000_
+* **[Oxford Instruments Partners with NYU Nanofab to Pioneer Atomic-Scale Quantum Advancements with PlasmaPro ASP](https://thequantuminsider.com/2026/05/12/oxford-instruments-nyu-plasmapro-asp-quantum/)** 
+  _Tue, 12 May 2026 14:32:27 +0000_
 
 ---
