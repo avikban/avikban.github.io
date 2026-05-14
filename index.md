@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 13, 2026
+# 🚀 Daily Tech Pulse: May 14, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Quantum Computing Inc. Reports Higher Revenue Following Acquisitions](https://thequantuminsider.com/2026/05/12/quantum-computing-inc-reports-higher-revenue-following-acquisitions/)** 
-  _Tue, 12 May 2026 16:44:03 +0000_
+* **[What I Heard at Quantum Harlem](https://thequantuminsider.com/2026/05/13/what-i-heard-at-quantum-harlem/)** 
+  _Wed, 13 May 2026 17:17:37 +0000_
 
-* **[Photonic Inc. Closes Investment Round With Over $200 Million USD](https://thequantuminsider.com/2026/05/12/photonic-inc-closes-investment-round-with-over-200-million-usd/)** 
-  _Tue, 12 May 2026 15:27:23 +0000_
+* **[Infleqtion Launches Quantum Spectrum RF Sensing Platform](https://thequantuminsider.com/2026/05/13/infleqtion-quantum-spectrum-rf-sensing/)** 
+  _Wed, 13 May 2026 15:07:32 +0000_
 
-* **[Oxford Instruments Partners with NYU Nanofab to Pioneer Atomic-Scale Quantum Advancements with PlasmaPro ASP](https://thequantuminsider.com/2026/05/12/oxford-instruments-nyu-plasmapro-asp-quantum/)** 
-  _Tue, 12 May 2026 14:32:27 +0000_
+* **[Researchers Claim Advance in 3D Self-Correcting Quantum Memory Could Reduce Quantum Computing Error-Correction Overhead](https://thequantuminsider.com/2026/05/13/researchers-claim-advance-in-3d-self-correcting-quantum-memory-could-reduce-quantum-computing-error-correction-overhead/)** 
+  _Wed, 13 May 2026 14:35:45 +0000_
 
 ---
