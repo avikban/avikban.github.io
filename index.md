@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 16, 2026
+# 🚀 Daily Tech Pulse: May 17, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[NSF Announces $1.5 Billion X-Labs Initiative to Pursue Generational Breakthrough Science Efforts](https://thequantuminsider.com/2026/05/15/nsf-announces-1-5-billion-x-labs-initiative-to-pursue-generational-breakthrough-science-efforts/)** 
-  _Fri, 15 May 2026 19:27:29 +0000_
+* **[Sygaldry Raises $139 Million to Build Quantum Computers For AI](https://thequantuminsider.com/2026/05/16/sygaldry-raises-139-million-to-build-quantum-computers-for-ai-2/)** 
+  _Sat, 16 May 2026 12:45:33 +0000_
 
-* **[Origin Quantum Launches Wukong-180 Quantum System](https://thequantuminsider.com/2026/05/15/origin-quantum-wukong-180/)** 
-  _Fri, 15 May 2026 14:59:16 +0000_
+* **[Guest Post: Why Europe’s Quantum Future Depends on Talent Hubs, Not Just Tech Milestones](https://thequantuminsider.com/2026/05/16/guest-post-why-europes-quantum-future-depends-on-talent-hubs-not-just-tech-milestones/)** 
+  _Sat, 16 May 2026 11:24:00 +0000_
 
-* **[Overview of 10+ Chinese Quantum Computing Companies – 2026](https://thequantuminsider.com/2026/05/15/10-plus-companies-leading-the-quantum-technologies-race-in-china/)** 
-  _Fri, 15 May 2026 13:56:10 +0000_
+* **[Xanadu Reports Revenue Jump in First Quarterly Earnings Report](https://thequantuminsider.com/2026/05/16/xanadu-reports-revenue-jump-in-first-quarterly-earnings-report/)** 
+  _Sat, 16 May 2026 08:22:09 +0000_
 
 ---
