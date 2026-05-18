@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 17, 2026
+# 🚀 Daily Tech Pulse: May 18, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,6 +13,15 @@
 
 ---
 ## Quantum Updates
+* **[Xanadu Announces Q1 2026 Financial Results: Historic Nasdaq Debut and $285M Government Funding Negotiations](https://quantumcomputingreport.com/xanadu-announces-q1-2026-financial-results-historic-nasdaq-debut-and-285m-government-funding-negotiations/)** 
+  _Sat, 16 May 2026 15:03:17 +0000_
+
+* **[NSF Launches $1.5 Billion Independent X-Labs Initiative Targeting Quantum and Sensing Technologies](https://quantumcomputingreport.com/nsf-launches-1-5-billion-independent-x-labs-initiative-targeting-quantum-and-sensing-technologies/)** 
+  _Sat, 16 May 2026 14:42:12 +0000_
+
+* **[Equal1 Unveils Rack-Mounted Silicon-Spin Quantum Computer](https://quantumcomputingreport.com/equal1-unveils-rack-mounted-silicon-spin-quantum-computer/)** 
+  _Fri, 15 May 2026 11:49:21 +0000_
+
 * **[Sygaldry Raises $139 Million to Build Quantum Computers For AI](https://thequantuminsider.com/2026/05/16/sygaldry-raises-139-million-to-build-quantum-computers-for-ai-2/)** 
   _Sat, 16 May 2026 12:45:33 +0000_
 
