@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 20, 2026
+# 🚀 Daily Tech Pulse: May 21, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Quantum eMotion and JMEM TEK Execute Consortium Agreement for Hardware Root-of-Trust SoC Development](https://quantumcomputingreport.com/quantum-emotion-and-jmem-tek-execute-consortium-agreement-for-hardware-root-of-trust-soc-development/)** 
-  _Tue, 19 May 2026 22:42:05 +0000_
+* **[Guest Post – Chips Act II: European Start-ups Need Faster Funding and Less Red Tape, Investor Says](https://thequantuminsider.com/2026/05/20/guest-post-chips-act-ii-european-start-ups-need-faster-funding-and-less-red-tape-investor-says/)** 
+  _Wed, 20 May 2026 16:43:53 +0000_
 
-* **[Nord Quantique Secures $30 Million Investment, Achieving $1.4 Billion Pre-Money Valuation](https://quantumcomputingreport.com/nord-quantique-secures-30-million-investment-achieving-1-4-billion-post-money-valuation/)** 
-  _Tue, 19 May 2026 13:03:36 +0000_
+* **[Molecular Qubit Achieves Single-Photon Quantum Control](https://thequantuminsider.com/2026/05/20/molecular-qubit-achieves-single-photon-quantum-control/)** 
+  _Wed, 20 May 2026 14:34:03 +0000_
 
-* **[Aramco and Pasqal Launch Commercial Quantum Computing as a Service Platform in Saudi Arabia](https://quantumcomputingreport.com/aramco-and-pasqal-launch-commercial-quantum-computing-as-a-service-platform-in-saudi-arabia/)** 
-  _Tue, 19 May 2026 12:47:00 +0000_
-
-* **[California Leaders Weigh in on Quantum Scaling And Statewide Strategy](https://thequantuminsider.com/2026/05/19/california-leaders-weigh-in-on-quantum-scaling-and-statewide-strategy/)** 
-  _Tue, 19 May 2026 20:52:09 +0000_
-
-* **[imec Demonstrates Quantum Dot Qubit Device Using High NA EUV](https://thequantuminsider.com/2026/05/19/imec-quantum-dot-qubit-high-na-euv-lithography/)** 
-  _Tue, 19 May 2026 16:36:00 +0000_
-
-* **[LFI Appoints Arthur Sinodinos as Advisor](https://thequantuminsider.com/2026/05/19/former-australian-ambassador-joins-industrial-quantum-management-firm/)** 
-  _Tue, 19 May 2026 13:23:50 +0000_
+* **[Inspira Technologies to Begin Trading as QTREX Quantum Under Nasdaq Ticker “QTEX”](https://thequantuminsider.com/2026/05/20/inspira-technologies-qtrex-quantum-qtex-nasdaq/)** 
+  _Wed, 20 May 2026 14:17:29 +0000_
 
 ---
