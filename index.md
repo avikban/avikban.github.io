@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 22, 2026
+# 🚀 Daily Tech Pulse: May 23, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Atom Computing Signs Letter of Intent for $100 Million in U.S. Quantum Funding](https://thequantuminsider.com/2026/05/21/atom-computing-us-commerce-100-million-fault-tolerant-quantum-computing/)** 
-  _Thu, 21 May 2026 18:34:53 +0000_
+* **[Top 20 Quantum Computing Masters & Ph.D. Degree Programs in 2026](https://thequantuminsider.com/2026/05/22/top-20-quantum-computing-masters-ph-d-programs/)** 
+  _Fri, 22 May 2026 10:48:46 +0000_
 
-* **[Xanadu Announces $300 Million Synthetic At-The-Market Program](https://thequantuminsider.com/2026/05/21/xanadu-announces-300-million-synthetic-at-the-market-program/)** 
-  _Thu, 21 May 2026 17:41:10 +0000_
+* **[Pasqal Demonstrates Logical Qubits Outperform Physical Qubits Solving Differential Equations](https://thequantuminsider.com/2026/05/22/pasqal-demonstrates-logical-qubits-outperform-physical-qubits-solving-differential-equations/)** 
+  _Fri, 22 May 2026 07:37:53 +0000_
 
-* **[The Quantum Economy Will Be Built on Glass](https://thequantuminsider.com/2026/05/21/the-quantum-economy-will-be-built-on-glass/)** 
-  _Thu, 21 May 2026 17:33:51 +0000_
+* **[Alice & Bob Announces Investment From NVIDIA’s VC Arm in Series B Extension](https://thequantuminsider.com/2026/05/22/alice-bob-announces-investment-from-nvidias-vc-arm-in-series-b-extension/)** 
+  _Fri, 22 May 2026 07:28:34 +0000_
 
 ---
