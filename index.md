@@ -1,8 +1,8 @@
-# 🚀 Daily Tech Pulse: May 26, 2026
+# 🚀 Daily Tech Pulse: May 27, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
-* **[Pavona Launches Open Hardware Ecosystem for Secure Chips](https://spectrum.ieee.org/open-source-hardware)** 
+* **[Pavona Launches Open-Hardware Ecosystem for Secure Chips](https://spectrum.ieee.org/pavona-open-source-hardware)** 
   _Mon, 25 May 2026 14:00:01 +0000_
 
 * **[Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics](https://spectrum.ieee.org/bolt-graphics-zeus-gpu)** 
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[SeQure Quantum: The First Quantum-Safe Link in Critical Electrical Infrastructure in Chile](https://thequantuminsider.com/2026/05/25/sequre-quantum-the-first-quantum-safe-link-in-critical-electrical-infrastructure-in-chile/)** 
-  _Mon, 25 May 2026 18:59:38 +0000_
+* **[Terra Quantum and Axiom Intelligence Acquisition Corp 1 Announce Definitive Business Combination Agreement at a $3.5 Billion Equity Valuation](https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/)** 
+  _Tue, 26 May 2026 15:37:38 +0000_
 
-* **[France Adds €1.55 Billion for Quantum and Semiconductor Development](https://thequantuminsider.com/2026/05/25/emmanuel-macron-announces-1-55-billion-euros-more-for-quantum-and-semiconductors/)** 
-  _Mon, 25 May 2026 16:01:34 +0000_
+* **[Honeywell-Backed Quantinuum Files for Landmark Quantum IPO](https://thequantuminsider.com/2026/05/26/honeywell-backed-quantinuum-files-for-landmark-quantum-ipo/)** 
+  _Tue, 26 May 2026 13:23:42 +0000_
 
-* **[Quantum Security Venture Pramatra Space Raises Pre-Seed Funding](https://thequantuminsider.com/2026/05/25/quantum-security-venture-pramatra-space-raises-pre-seed-funding/)** 
-  _Mon, 25 May 2026 09:04:08 +0000_
+* **[UK Quantum Startup Draws Interest From U.S. SPACs, The Telegraph Reports](https://thequantuminsider.com/2026/05/26/uk-quantum-startup-draws-interest-from-u-s-spacs-the-telegraph-reports/)** 
+  _Tue, 26 May 2026 11:43:04 +0000_
 
 ---
