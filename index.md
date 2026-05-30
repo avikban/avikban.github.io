@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 29, 2026
+# 🚀 Daily Tech Pulse: May 30, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Beyond a Single Quantum Chip: Why the Future of Quantum Computing is Modular](https://quantumcomputingreport.com/beyond-a-single-quantum-chip-why-the-future-of-quantum-computing-is-modular/)** 
-  _Thu, 28 May 2026 23:23:37 +0000_
+* **[University of Tennessee Launches Knoxville Quantum Accelerator to Anchor State Initiative](https://quantumcomputingreport.com/university-of-tennessee-launches-knoxville-quantum-accelerator-to-anchor-state-initiative/)** 
+  _Sat, 30 May 2026 01:04:43 +0000_
 
-* **[Qilimanjaro Deploys an Analog Quantum Computer at the Barcelona Supercomputing Center](https://quantumcomputingreport.com/qilimanjaro-deploys-an-analog-quantum-computer-at-the-barcelona-supercomputing-center/)** 
-  _Thu, 28 May 2026 20:42:05 +0000_
+* **[Moth Launches Quantum Backrooms, a Quantum Game for Consumers](https://quantumcomputingreport.com/moth-launches-quantum-backrooms-a-quantum-game-for-consumers/)** 
+  _Fri, 29 May 2026 22:56:35 +0000_
 
-* **[Q-CTRL Framework Outlines Path to Quantum Battlefield Information Dominance Across Four Defense Verticals](https://quantumcomputingreport.com/q-ctrl-framework-outlines-path-to-quantum-battlefield-information-dominance-across-four-defense-verticals/)** 
-  _Thu, 28 May 2026 14:56:45 +0000_
+* **[SEALSQ Deepens Strategic Commitment to EeroQ with Additional Investment and Lead Investor Role](https://quantumcomputingreport.com/sealsq-deepens-strategic-commitment-to-eeroq-with-additional-investment-and-lead-investor-role/)** 
+  _Fri, 29 May 2026 20:17:11 +0000_
 
-* **[Educators Named to Chattanooga/Hamilton County’s Inaugural QCaMP Cohort](https://thequantuminsider.com/2026/05/28/educators-named-to-chattanooga-hamilton-countys-inaugural-qcamp-cohort/)** 
-  _Thu, 28 May 2026 21:23:55 +0000_
+* **[UT Launches Knoxville Quantum Accelerator To Advance Tennessee’s Future](https://thequantuminsider.com/2026/05/29/ut-launches-knoxville-quantum-accelerator-to-advance-tennessees-future/)** 
+  _Fri, 29 May 2026 15:22:26 +0000_
 
-* **[Qilimanjaro Inaugurates an Analog Quantum Computer at Barcelona Supercomputing Center](https://thequantuminsider.com/2026/05/28/qilimanjaro-inaugurates-an-analog-quantum-computer-at-barcelona-supercomputing-center/)** 
-  _Thu, 28 May 2026 17:17:37 +0000_
+* **[Qubic Announces Sale of Cryogenic Amplifiers to Quantum Machines](https://thequantuminsider.com/2026/05/29/qubic-announces-sale-of-cryogenic-amplifiers-to-quantum-machines/)** 
+  _Fri, 29 May 2026 13:53:46 +0000_
 
-* **[Quantum Computing Is Approaching Its ChatGPT Moment: New Game by Moth Proves It’s Closer than You Expected.](https://thequantuminsider.com/2026/05/28/quantum-computing-is-approaching-its-chatgpt-moment-new-game-by-moth-proves-its-closer-than-you-expected/)** 
-  _Thu, 28 May 2026 13:38:24 +0000_
+* **[Massachusetts Invests $25 Million in MIT Quantum Lab](https://thequantuminsider.com/2026/05/29/massachusetts-invests-25-million-in-mit-quantum-lab/)** 
+  _Fri, 29 May 2026 10:53:27 +0000_
 
 ---
