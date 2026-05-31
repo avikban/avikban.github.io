@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 30, 2026
+# 🚀 Daily Tech Pulse: May 31, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[University of Tennessee Launches Knoxville Quantum Accelerator to Anchor State Initiative](https://quantumcomputingreport.com/university-of-tennessee-launches-knoxville-quantum-accelerator-to-anchor-state-initiative/)** 
-  _Sat, 30 May 2026 01:04:43 +0000_
+* **[Who’s News: Strategic Leadership Appointments at Quandela, Zapata Quantum, Imperagen, and EigenQ](https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-quandela-zapata-quantum-imperagen-and-eigenq/)** 
+  _Sat, 30 May 2026 14:09:26 +0000_
 
-* **[Moth Launches Quantum Backrooms, a Quantum Game for Consumers](https://quantumcomputingreport.com/moth-launches-quantum-backrooms-a-quantum-game-for-consumers/)** 
-  _Fri, 29 May 2026 22:56:35 +0000_
+* **[Pramatra Space Secures Pre-Seed Capital to Advance Space-Based Quantum Key Distribution Hardware](https://quantumcomputingreport.com/pramatra-space-secures-pre-seed-capital-to-advance-space-based-quantum-key-distribution-hardware/)** 
+  _Sat, 30 May 2026 13:40:58 +0000_
 
-* **[SEALSQ Deepens Strategic Commitment to EeroQ with Additional Investment and Lead Investor Role](https://quantumcomputingreport.com/sealsq-deepens-strategic-commitment-to-eeroq-with-additional-investment-and-lead-investor-role/)** 
-  _Fri, 29 May 2026 20:17:11 +0000_
+* **[Rigetti Simulates Plasma Wave Dispersion on Superconducting Ankaa-3 Processor Using Specialized Error Mitigation](https://quantumcomputingreport.com/rigetti-simulates-plasma-wave-dispersion-on-superconducting-ankaa-3-processor-using-specialized-error-mitigation/)** 
+  _Sat, 30 May 2026 02:36:57 +0000_
+
+* **[Open-Source Quantum Community Prepares For Sixth Annual unitaryHack](https://thequantuminsider.com/2026/05/30/open-source-quantum-community-prepares-for-sixth-annual-unitaryhack/)** 
+  _Sat, 30 May 2026 13:25:01 +0000_
 
 * **[UT Launches Knoxville Quantum Accelerator To Advance Tennessee’s Future](https://thequantuminsider.com/2026/05/29/ut-launches-knoxville-quantum-accelerator-to-advance-tennessees-future/)** 
   _Fri, 29 May 2026 15:22:26 +0000_
 
 * **[Qubic Announces Sale of Cryogenic Amplifiers to Quantum Machines](https://thequantuminsider.com/2026/05/29/qubic-announces-sale-of-cryogenic-amplifiers-to-quantum-machines/)** 
   _Fri, 29 May 2026 13:53:46 +0000_
-
-* **[Massachusetts Invests $25 Million in MIT Quantum Lab](https://thequantuminsider.com/2026/05/29/massachusetts-invests-25-million-in-mit-quantum-lab/)** 
-  _Fri, 29 May 2026 10:53:27 +0000_
 
 ---
