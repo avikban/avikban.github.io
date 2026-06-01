@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: May 31, 2026
+# 🚀 Daily Tech Pulse: June 01, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -22,13 +22,13 @@
 * **[Rigetti Simulates Plasma Wave Dispersion on Superconducting Ankaa-3 Processor Using Specialized Error Mitigation](https://quantumcomputingreport.com/rigetti-simulates-plasma-wave-dispersion-on-superconducting-ankaa-3-processor-using-specialized-error-mitigation/)** 
   _Sat, 30 May 2026 02:36:57 +0000_
 
+* **[French National Quantum Update: May 2026](https://thequantuminsider.com/2026/05/31/french-national-quantum-update-may-2026/)** 
+  _Sun, 31 May 2026 07:52:00 +0000_
+
 * **[Open-Source Quantum Community Prepares For Sixth Annual unitaryHack](https://thequantuminsider.com/2026/05/30/open-source-quantum-community-prepares-for-sixth-annual-unitaryhack/)** 
   _Sat, 30 May 2026 13:25:01 +0000_
 
 * **[UT Launches Knoxville Quantum Accelerator To Advance Tennessee’s Future](https://thequantuminsider.com/2026/05/29/ut-launches-knoxville-quantum-accelerator-to-advance-tennessees-future/)** 
   _Fri, 29 May 2026 15:22:26 +0000_
-
-* **[Qubic Announces Sale of Cryogenic Amplifiers to Quantum Machines](https://thequantuminsider.com/2026/05/29/qubic-announces-sale-of-cryogenic-amplifiers-to-quantum-machines/)** 
-  _Fri, 29 May 2026 13:53:46 +0000_
 
 ---
