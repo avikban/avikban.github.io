@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 01, 2026
+# 🚀 Daily Tech Pulse: June 02, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Who’s News: Strategic Leadership Appointments at Quandela, Zapata Quantum, Imperagen, and EigenQ](https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-quandela-zapata-quantum-imperagen-and-eigenq/)** 
-  _Sat, 30 May 2026 14:09:26 +0000_
+* **[University of Illinois Team Advances Monolithic 3D Chip Design](https://thequantuminsider.com/2026/06/01/university-of-illinois-advances-monolithic-3d-chip-design/)** 
+  _Mon, 01 Jun 2026 18:18:22 +0000_
 
-* **[Pramatra Space Secures Pre-Seed Capital to Advance Space-Based Quantum Key Distribution Hardware](https://quantumcomputingreport.com/pramatra-space-secures-pre-seed-capital-to-advance-space-based-quantum-key-distribution-hardware/)** 
-  _Sat, 30 May 2026 13:40:58 +0000_
+* **[Penn State Files Three Patent Applications Related to Delta Sponsored Research](https://thequantuminsider.com/2026/06/01/penn-state-files-three-patent-applications-related-to-delta-sponsored-research/)** 
+  _Mon, 01 Jun 2026 14:39:10 +0000_
 
-* **[Rigetti Simulates Plasma Wave Dispersion on Superconducting Ankaa-3 Processor Using Specialized Error Mitigation](https://quantumcomputingreport.com/rigetti-simulates-plasma-wave-dispersion-on-superconducting-ankaa-3-processor-using-specialized-error-mitigation/)** 
-  _Sat, 30 May 2026 02:36:57 +0000_
-
-* **[French National Quantum Update: May 2026](https://thequantuminsider.com/2026/05/31/french-national-quantum-update-may-2026/)** 
-  _Sun, 31 May 2026 07:52:00 +0000_
-
-* **[Open-Source Quantum Community Prepares For Sixth Annual unitaryHack](https://thequantuminsider.com/2026/05/30/open-source-quantum-community-prepares-for-sixth-annual-unitaryhack/)** 
-  _Sat, 30 May 2026 13:25:01 +0000_
-
-* **[UT Launches Knoxville Quantum Accelerator To Advance Tennessee’s Future](https://thequantuminsider.com/2026/05/29/ut-launches-knoxville-quantum-accelerator-to-advance-tennessees-future/)** 
-  _Fri, 29 May 2026 15:22:26 +0000_
+* **[Fixstars Amplify Adds QUDORA’s Quantum Computers to its Standard Machines](https://thequantuminsider.com/2026/06/01/fixstars-amplify-adds-qudoras-quantum-computers-to-its-standard-machines/)** 
+  _Mon, 01 Jun 2026 12:20:25 +0000_
 
 ---
