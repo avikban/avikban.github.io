@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 02, 2026
+# 🚀 Daily Tech Pulse: June 03, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[University of Illinois Team Advances Monolithic 3D Chip Design](https://thequantuminsider.com/2026/06/01/university-of-illinois-advances-monolithic-3d-chip-design/)** 
-  _Mon, 01 Jun 2026 18:18:22 +0000_
+* **[Xanadu Launches Public Cloud Access to Borealis Photonic Processor to Demonstrate Quantum Computational Advantage](https://quantumcomputingreport.com/xanadu-launches-public-cloud-access-to-borealis-photonic-processor-to-demonstrate-quantum-computational-advantage/)** 
+  _Wed, 03 Jun 2026 01:19:59 +0000_
 
-* **[Penn State Files Three Patent Applications Related to Delta Sponsored Research](https://thequantuminsider.com/2026/06/01/penn-state-files-three-patent-applications-related-to-delta-sponsored-research/)** 
-  _Mon, 01 Jun 2026 14:39:10 +0000_
+* **[QuDef Launches SQOUT Threat Intelligence Platform for Quantum Communication Networks](https://quantumcomputingreport.com/qudef-launches-sqout-threat-intelligence-platform-for-quantum-communication-networks/)** 
+  _Tue, 02 Jun 2026 20:09:39 +0000_
 
-* **[Fixstars Amplify Adds QUDORA’s Quantum Computers to its Standard Machines](https://thequantuminsider.com/2026/06/01/fixstars-amplify-adds-qudoras-quantum-computers-to-its-standard-machines/)** 
-  _Mon, 01 Jun 2026 12:20:25 +0000_
+* **[IQM Upsizes SPAC Merger PIPE Financing to $146 Million with Capital Commitment from Pension Insurer Ilmarinen](https://quantumcomputingreport.com/iqm-upsizes-spac-merger-pipe-financing-to-146-million-with-capital-commitment-from-pension-insurer-ilmarinen/)** 
+  _Tue, 02 Jun 2026 20:01:14 +0000_
+
+* **[Microsoft Reports Advances in Majorana 2 Following Debate Over Last Year’s Topological Claims](https://thequantuminsider.com/2026/06/02/microsoft-reports-advances-in-majorana-2-following-debate-over-last-years-topological-claims/)** 
+  _Tue, 02 Jun 2026 19:52:20 +0000_
+
+* **[Aliro Appoints Fahri Diner to Board of Directors](https://thequantuminsider.com/2026/06/02/aliro-appoints-fahri-diner-to-board/)** 
+  _Tue, 02 Jun 2026 16:36:54 +0000_
+
+* **[IQM and Real Asset Acquisition Corp. Announce Upsized $146 Million PIPE with New Commitment from Ilmarinen](https://thequantuminsider.com/2026/06/02/iqm-and-real-asset-acquisition-corp-announce-upsized-146-million-pipe-with-new-commitment-from-ilmarinen/)** 
+  _Tue, 02 Jun 2026 16:36:06 +0000_
 
 ---
