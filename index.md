@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 03, 2026
+# 🚀 Daily Tech Pulse: June 04, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Xanadu Launches Public Cloud Access to Borealis Photonic Processor to Demonstrate Quantum Computational Advantage](https://quantumcomputingreport.com/xanadu-launches-public-cloud-access-to-borealis-photonic-processor-to-demonstrate-quantum-computational-advantage/)** 
-  _Wed, 03 Jun 2026 01:19:59 +0000_
+* **[Quobly Closes €115 Million ($133.5 Million USD) Series A to Industrialize Silicon-Spin Qubit Processors](https://quantumcomputingreport.com/quobly-closes-e115-million-133-5-million-usd-series-a-to-industrialize-silicon-spin-qubit-processors/)** 
+  _Wed, 03 Jun 2026 23:47:37 +0000_
 
-* **[QuDef Launches SQOUT Threat Intelligence Platform for Quantum Communication Networks](https://quantumcomputingreport.com/qudef-launches-sqout-threat-intelligence-platform-for-quantum-communication-networks/)** 
-  _Tue, 02 Jun 2026 20:09:39 +0000_
+* **[Quantum Design Completes Acquisition of Qnami to Expand Nitrogen-Vacancy Diamond Sensing Portfolio](https://quantumcomputingreport.com/quantum-design-completes-acquisition-of-qnami-to-expand-nitrogen-vacancy-diamond-sensing-portfolio/)** 
+  _Wed, 03 Jun 2026 23:23:50 +0000_
 
-* **[IQM Upsizes SPAC Merger PIPE Financing to $146 Million with Capital Commitment from Pension Insurer Ilmarinen](https://quantumcomputingreport.com/iqm-upsizes-spac-merger-pipe-financing-to-146-million-with-capital-commitment-from-pension-insurer-ilmarinen/)** 
-  _Tue, 02 Jun 2026 20:01:14 +0000_
+* **[Ooredoo Implements Quantum Key Distribution Link on Qatar’s Core Dark Fiber Infrastructure](https://quantumcomputingreport.com/ooredoo-implements-quantum-key-distribution-link-on-qatars-core-dark-fiber-infrastructure/)** 
+  _Wed, 03 Jun 2026 23:13:01 +0000_
 
-* **[Microsoft Reports Advances in Majorana 2 Following Debate Over Last Year’s Topological Claims](https://thequantuminsider.com/2026/06/02/microsoft-reports-advances-in-majorana-2-following-debate-over-last-years-topological-claims/)** 
-  _Tue, 02 Jun 2026 19:52:20 +0000_
+* **[Ooredoo, HBKU, Ministry of Defence Launch Qatar’s First Quantum-Safe Network](https://thequantuminsider.com/2026/06/03/ooredoo-hbku-ministry-of-defence-launch-qatars-first-quantum-safe-network/)** 
+  _Wed, 03 Jun 2026 18:26:05 +0000_
 
-* **[Aliro Appoints Fahri Diner to Board of Directors](https://thequantuminsider.com/2026/06/02/aliro-appoints-fahri-diner-to-board/)** 
-  _Tue, 02 Jun 2026 16:36:54 +0000_
+* **[Atom Computing Reveals Quantum Error Correction with Toric Code](https://thequantuminsider.com/2026/06/03/atom-computing-reveals-quantum-error-correction-with-toric-code/)** 
+  _Wed, 03 Jun 2026 15:50:34 +0000_
 
-* **[IQM and Real Asset Acquisition Corp. Announce Upsized $146 Million PIPE with New Commitment from Ilmarinen](https://thequantuminsider.com/2026/06/02/iqm-and-real-asset-acquisition-corp-announce-upsized-146-million-pipe-with-new-commitment-from-ilmarinen/)** 
-  _Tue, 02 Jun 2026 16:36:06 +0000_
+* **[Illinois Quantum and Microelectronics Park Appoints Philip Makotyn as Deputy CTO](https://thequantuminsider.com/2026/06/03/illinois-quantum-and-microelectronics-park-announces-philip-makotyn-as-deputy-chief-technology-officer/)** 
+  _Wed, 03 Jun 2026 14:46:18 +0000_
 
 ---
