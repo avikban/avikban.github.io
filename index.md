@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 05, 2026
+# 🚀 Daily Tech Pulse: June 06, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Quantinuum and Mitsubishi Electric Sign Agreement to Integrate Trapped-Ion Hardware into Industrial Design Lifecycles](https://quantumcomputingreport.com/quantinuum-and-mitsubishi-electric-sign-agreement-to-integrate-trapped-ion-hardware-into-industrial-design-lifecycles/)** 
-  _Thu, 04 Jun 2026 19:26:03 +0000_
+* **[Classiq and UC Chile Form Latin America’s First Quantum Pathology Consortium](https://quantumcomputingreport.com/classiq-and-uc-chile-form-latin-americas-first-quantum-pathology-consortium/)** 
+  _Fri, 05 Jun 2026 18:38:42 +0000_
 
-* **[Oxford Quantum Circuits, JPMorganChase, and AMD Establish Quantum-AI Data Center Initiative in London](https://quantumcomputingreport.com/oxford-quantum-circuits-jpmorganchase-and-amd-establish-quantum-ai-data-center-initiative-in-london/)** 
-  _Thu, 04 Jun 2026 19:13:15 +0000_
+* **[SEALSQ Acquires Miraex to Finalize Quantum Sovereign Vertical Stack and LEO Satellite Network](https://quantumcomputingreport.com/sealsq-acquires-miraex-to-finalize-quantum-sovereign-vertical-stack-and-leo-satellite-network/)** 
+  _Fri, 05 Jun 2026 18:21:27 +0000_
 
-* **[Quantinuum Prices Upsized Initial Public Offering at $1.68 Billion to Landmark Public Market Debut](https://quantumcomputingreport.com/quantinuum-completes-its-ipo-at-an-upscale-price-and-number-of-shares/)** 
-  _Thu, 04 Jun 2026 18:38:47 +0000_
+* **[C12 Automates Pick & Place Nanoassembly to Standardize Carbon Nanotube Qubit Fabrication](https://quantumcomputingreport.com/c12-automates-pick-place-nanoassembly-to-standardize-carbon-nanotube-qubit-fabrication/)** 
+  _Fri, 05 Jun 2026 03:05:32 +0000_
 
-* **[UK Risks Repeating Semiconductor and AI Mistakes Unless Government Acts Now on Quantum, Warns Cross-Party Parliamentary Group](https://thequantuminsider.com/2026/06/04/uk-risks-repeating-semiconductor-and-ai-mistakes-unless-government-acts-now-on-quantum-warns-cross-party-parliamentary-group/)** 
-  _Thu, 04 Jun 2026 13:25:43 +0000_
+* **[SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy](https://thequantuminsider.com/2026/06/05/sealsq-expands-quantum-strategy-through-investments-in-quantum-computing-companies/)** 
+  _Fri, 05 Jun 2026 14:09:29 +0000_
 
-* **[Quantum X Labs Adds Oren Raz to Scientific Advisory Board](https://thequantuminsider.com/2026/06/04/quantum-x-labs-adds-oren-raz-to-scientific-advisory-board/)** 
-  _Thu, 04 Jun 2026 12:05:27 +0000_
+* **[The Companies Building Quantum Computing Chips in 2026](https://thequantuminsider.com/2026/06/05/how-many-quantum-chip-companies-are-there/)** 
+  _Fri, 05 Jun 2026 12:57:33 +0000_
 
-* **[Texas Governor Appoints Five to Quantum Initiative Advisory Committee](https://thequantuminsider.com/2026/06/04/texas-governor-appoints-five-to-quantum-initiative-advisory-committee/)** 
-  _Thu, 04 Jun 2026 11:18:02 +0000_
+* **[Scientists Identify the Origin of Noise in Spin Qubit Quantum Processors](https://thequantuminsider.com/2026/06/05/scientists-identify-the-origin-of-noise-in-spin-qubit-quantum-processors/)** 
+  _Fri, 05 Jun 2026 11:52:57 +0000_
 
 ---
