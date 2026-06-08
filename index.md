@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 07, 2026
+# 🚀 Daily Tech Pulse: June 08, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
