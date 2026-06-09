@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 08, 2026
+# 🚀 Daily Tech Pulse: June 09, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[SEALSQ Broadens Quantum Computing and Post-Quantum Security Strategy](https://thequantuminsider.com/2026/06/05/sealsq-expands-quantum-strategy-through-investments-in-quantum-computing-companies/)** 
-  _Fri, 05 Jun 2026 14:09:29 +0000_
+* **[WiMi Explores Quantum Algorithms for Multi-Dimensional Data Pooling](https://thequantuminsider.com/2026/06/08/wimi-explores-quantum-algorithms-for-multi-dimensional-data-pooling/)** 
+  _Mon, 08 Jun 2026 16:36:12 +0000_
 
-* **[The Companies Building Quantum Computing Chips in 2026](https://thequantuminsider.com/2026/06/05/how-many-quantum-chip-companies-are-there/)** 
-  _Fri, 05 Jun 2026 12:57:33 +0000_
+* **[U.S. and Japan Commit $1 Billion to Joint Quantum and Advanced Computing Research](https://thequantuminsider.com/2026/06/08/us-and-japan-commit-1-billion-to-joint-quantum-and-advanced-computing-research/)** 
+  _Mon, 08 Jun 2026 16:27:59 +0000_
 
-* **[Scientists Identify the Origin of Noise in Spin Qubit Quantum Processors](https://thequantuminsider.com/2026/06/05/scientists-identify-the-origin-of-noise-in-spin-qubit-quantum-processors/)** 
-  _Fri, 05 Jun 2026 11:52:57 +0000_
+* **[Agentic Operating System for Quantum R&D Teams to Debut During Live Event](https://thequantuminsider.com/2026/06/08/agentic-operating-system-for-quantum-rd-teams-to-debut-during-live-event/)** 
+  _Mon, 08 Jun 2026 14:53:30 +0000_
 
 ---
