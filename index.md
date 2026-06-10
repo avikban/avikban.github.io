@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 09, 2026
+# 🚀 Daily Tech Pulse: June 10, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[WiMi Explores Quantum Algorithms for Multi-Dimensional Data Pooling](https://thequantuminsider.com/2026/06/08/wimi-explores-quantum-algorithms-for-multi-dimensional-data-pooling/)** 
-  _Mon, 08 Jun 2026 16:36:12 +0000_
+* **[Quantum X Labs and IQCC Partner to Evaluate AI-Based Quantum Error Correction](https://thequantuminsider.com/2026/06/09/quantum-x-labs-and-iqcc-partner-to-evaluate-ai-based-quantum-error-correction/)** 
+  _Tue, 09 Jun 2026 16:23:08 +0000_
 
-* **[U.S. and Japan Commit $1 Billion to Joint Quantum and Advanced Computing Research](https://thequantuminsider.com/2026/06/08/us-and-japan-commit-1-billion-to-joint-quantum-and-advanced-computing-research/)** 
-  _Mon, 08 Jun 2026 16:27:59 +0000_
+* **[Quantum Sensor Advance Could Transform Army Battlefield Signal Detection](https://thequantuminsider.com/2026/06/09/quantum-sensor-advance-could-transform-army-battlefield-signal-detection/)** 
+  _Tue, 09 Jun 2026 15:38:44 +0000_
 
-* **[Agentic Operating System for Quantum R&D Teams to Debut During Live Event](https://thequantuminsider.com/2026/06/08/agentic-operating-system-for-quantum-rd-teams-to-debut-during-live-event/)** 
-  _Mon, 08 Jun 2026 14:53:30 +0000_
+* **[Keyfactor Launches Trust Control Plane to Unify Digital Trust Across the Enterprise](https://thequantuminsider.com/2026/06/09/keyfactor-launches-trust-control-plane-to-unify-digital-trust-across-the-enterprise/)** 
+  _Tue, 09 Jun 2026 14:18:13 +0000_
 
 ---
