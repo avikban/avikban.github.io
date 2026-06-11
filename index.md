@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 10, 2026
+# 🚀 Daily Tech Pulse: June 11, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Quantum X Labs and IQCC Partner to Evaluate AI-Based Quantum Error Correction](https://thequantuminsider.com/2026/06/09/quantum-x-labs-and-iqcc-partner-to-evaluate-ai-based-quantum-error-correction/)** 
-  _Tue, 09 Jun 2026 16:23:08 +0000_
+* **[enQase to Showcase Quantum Security Leadership at Quantum.Tech World 2026](https://thequantuminsider.com/2026/06/10/enqase-to-showcase-quantum-security-leadership-at-quantum-tech-world-2026/)** 
+  _Wed, 10 Jun 2026 17:28:56 +0000_
 
-* **[Quantum Sensor Advance Could Transform Army Battlefield Signal Detection](https://thequantuminsider.com/2026/06/09/quantum-sensor-advance-could-transform-army-battlefield-signal-detection/)** 
-  _Tue, 09 Jun 2026 15:38:44 +0000_
+* **[Guest Post — The Decade-Defining Race to Lock Down the World’s Data Before Quantum Breaks It](https://thequantuminsider.com/2026/06/10/the-decade-defining-race-to-lock-down-the-worlds-data-before-quantum-breaks-it/)** 
+  _Wed, 10 Jun 2026 13:52:17 +0000_
 
-* **[Keyfactor Launches Trust Control Plane to Unify Digital Trust Across the Enterprise](https://thequantuminsider.com/2026/06/09/keyfactor-launches-trust-control-plane-to-unify-digital-trust-across-the-enterprise/)** 
-  _Tue, 09 Jun 2026 14:18:13 +0000_
+* **[Quantropi and Nokia Launch Integrated Quantum-Safe Key Distribution Solution](https://thequantuminsider.com/2026/06/10/quantropi-and-nokia-launch-integrated-quantum-safe-key-distribution-solution/)** 
+  _Wed, 10 Jun 2026 13:32:34 +0000_
 
 ---
