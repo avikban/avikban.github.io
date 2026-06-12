@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 11, 2026
+# 🚀 Daily Tech Pulse: June 12, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[enQase to Showcase Quantum Security Leadership at Quantum.Tech World 2026](https://thequantuminsider.com/2026/06/10/enqase-to-showcase-quantum-security-leadership-at-quantum-tech-world-2026/)** 
-  _Wed, 10 Jun 2026 17:28:56 +0000_
+* **[Nu Quantum Demonstrates Subsystem Erasure Tolerance in Networked QPU Architectures](https://quantumcomputingreport.com/nu-quantum-demonstrates-subsystem-erasure-tolerance-in-networked-qpu-architectures/)** 
+  _Thu, 11 Jun 2026 15:33:41 +0000_
 
-* **[Guest Post — The Decade-Defining Race to Lock Down the World’s Data Before Quantum Breaks It](https://thequantuminsider.com/2026/06/10/the-decade-defining-race-to-lock-down-the-worlds-data-before-quantum-breaks-it/)** 
-  _Wed, 10 Jun 2026 13:52:17 +0000_
+* **[Alice & Bob Launches On-Premise “Helium Quantum System” for Cat-Qubit Research](https://quantumcomputingreport.com/alice-bob-launches-on-premise-helium-quantum-system-for-cat-qubit-research/)** 
+  _Thu, 11 Jun 2026 15:26:22 +0000_
 
-* **[Quantropi and Nokia Launch Integrated Quantum-Safe Key Distribution Solution](https://thequantuminsider.com/2026/06/10/quantropi-and-nokia-launch-integrated-quantum-safe-key-distribution-solution/)** 
-  _Wed, 10 Jun 2026 13:32:34 +0000_
+* **[Australia’s NRFC and Firgun Ventures Inject 40 Million AUD ($28 Million USD) and Growth Capital into Silicon Quantum Computing](https://quantumcomputingreport.com/australias-nrfc-and-firgun-ventures-inject-40-million-aud-28-million-usd-and-growth-capital-into-silicon-quantum-computing/)** 
+  _Thu, 11 Jun 2026 15:10:31 +0000_
+
+* **[BW Digital and NUS to Advance Quantum-Ready Data Centres for Southeast Asia](https://thequantuminsider.com/2026/06/11/bw-digital-and-nus-to-advance-quantum-ready-data-centres-for-southeast-asia/)** 
+  _Thu, 11 Jun 2026 19:38:39 +0000_
+
+* **[Pasqal Launches Italy’s First Neutral-Atom Quantum Computer at CINECA](https://thequantuminsider.com/2026/06/11/pasqal-inaugurates-italys-first-neutral-atom-quantum-computer-third-system-europe/)** 
+  _Thu, 11 Jun 2026 14:53:49 +0000_
+
+* **[Horizon Quantum Selects Dublin for Second Quantum Computer Testbed](https://thequantuminsider.com/2026/06/11/horizon-quantum-dublin-second-quantum-computer-testbed-ireland/)** 
+  _Thu, 11 Jun 2026 14:44:49 +0000_
 
 ---
