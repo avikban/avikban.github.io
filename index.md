@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 15, 2026
+# 🚀 Daily Tech Pulse: June 16, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[IBM is Using AI to Help Identify New Quantum Error Correction Codes](https://quantumcomputingreport.com/ibm-is-using-ai-to-help-identify-new-quantum-error-correction-codes/)** 
-  _Sun, 14 Jun 2026 04:14:52 +0000_
+* **[Atom Computing and Phasecraft Partner on Material Science Algorithms](https://quantumcomputingreport.com/atom-computing-and-phasecraft-partner-on-material-science-algorithms/)** 
+  _Mon, 15 Jun 2026 23:51:15 +0000_
 
-* **[Who’s News: Strategic Leadership Appointments at Diraq, IQM Quantum Computers, EigenQ, and BosonQ Psi](https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-diraq-iqm-eigenq-bqp-and-the-texas-quantum-initiative/)** 
-  _Sat, 13 Jun 2026 03:31:24 +0000_
+* **[Podcast with Mehmet Sanliol, Managing Director at Evercore](https://quantumcomputingreport.com/podcast-with-mehmet-sanliol-managing-director-at-evercore/)** 
+  _Mon, 15 Jun 2026 21:15:36 +0000_
 
-* **[QuiX Quantum Integrates with Baden-Württemberg Networks to Expand European Photonics Corridor](https://quantumcomputingreport.com/quix-quantum-integrates-with-baden-wurttemberg-networks-to-expand-european-photonics-corridor/)** 
-  _Sat, 13 Jun 2026 03:28:24 +0000_
+* **[AIX Global Innovations Discloses Software-Governed Fault-Tolerant Quantum Computing Campaign on Cloud-Accessible IBM Hardware](https://quantumcomputingreport.com/aix-global-innovations-discloses-software-governed-fault-tolerant-quantum-computing-campaign-on-cloud-accessible-ibm-hardware/)** 
+  _Mon, 15 Jun 2026 19:29:21 +0000_
 
-* **[Israel Innovation Authority And Israeli DDR&D (MAFAT) Launch NIS 150 Million Initiative to Advance Israel’s Next Generation of Photonic Chips](https://thequantuminsider.com/2026/06/14/israel-innovation-authority-and-israeli-ddrd-mafat-launch-nis-150-million-initiative-to-advance-israels-next-generation-of-photonic-chips/)** 
-  _Sun, 14 Jun 2026 14:21:36 +0000_
+* **[Cleveland Clinic And IBM Forum Highlights Advancements in AI And Quantum Computing For Healthcare Research](https://thequantuminsider.com/2026/06/15/cleveland-clinic-and-ibm-forum-highlights-advancements-in-ai-and-quantum-computing-for-healthcare-research/)** 
+  _Mon, 15 Jun 2026 19:59:16 +0000_
 
-* **[Microsoft And Quantinuum Report on Major Gains in Quantum Error Correction](https://thequantuminsider.com/2026/06/13/microsoft-and-quantinuum-report-on-major-gains-in-quantum-error-correction/)** 
-  _Sat, 13 Jun 2026 13:59:57 +0000_
+* **[WiMi Develops Quantum Kernel Convolution Method for NISQ Quantum Devices](https://thequantuminsider.com/2026/06/15/wimi-implements-quantum-kernel-convolution-scheme-for-nisq-devices/)** 
+  _Mon, 15 Jun 2026 15:14:16 +0000_
 
-* **[What Quantum Can Learn from the Data Center Playbook](https://thequantuminsider.com/2026/06/13/what-quantum-can-learn-from-the-data-center-playbook/)** 
-  _Sat, 13 Jun 2026 13:45:36 +0000_
+* **[DigitalXForce Launches AI and Quantum Risk Management Platform](https://thequantuminsider.com/2026/06/15/digitalxforce-launches-ai-and-quantum-risk-management-platform/)** 
+  _Mon, 15 Jun 2026 14:59:13 +0000_
 
 ---
