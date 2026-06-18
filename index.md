@@ -1,8 +1,8 @@
-# 🚀 Daily Tech Pulse: June 17, 2026
+# 🚀 Daily Tech Pulse: June 18, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
-* **[Semiconductor Startup Builds Alternatives for Vital Legacy Chips](https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems)** 
+* **[Semiconductor Startup Builds Alternatives for Vital Legacy Chips](https://spectrum.ieee.org/phoenix-semiconductors-legacy-chips-oems)** 
   _Tue, 16 Jun 2026 10:00:02 +0000_
 
 * **[NSF Experiments With New Kind of Science Funding](https://spectrum.ieee.org/nsf-x-labs)** 
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[UK Government Launches £10 Million ($13.43 Million USD) National Quantum Standards Network](https://quantumcomputingreport.com/uk-government-launches-10-million-national-quantum-standards-network/)** 
-  _Tue, 16 Jun 2026 23:45:05 +0000_
+* **[IQM Highlights Commercial Progress and Quantum Roadmap at Investor Event](https://thequantuminsider.com/2026/06/17/iqm-highlights-commercial-progress-and-quantum-roadmap-at-investor-event/)** 
+  _Wed, 17 Jun 2026 17:46:43 +0000_
 
-* **[EigenQ and TD SYNNEX Partner to Secure AMD EPYC Server Environments Against Post-Quantum Threats](https://quantumcomputingreport.com/eigenq-and-td-synnex-partner-to-secure-amd-epyc-server-environments-against-post-quantum-threats/)** 
-  _Tue, 16 Jun 2026 23:17:00 +0000_
+* **[PsiQuantum Advances Utility-Scale Quantum Computing Project in Australia](https://thequantuminsider.com/2026/06/17/psiquantum-advances-utility-scale-quantum-computing-project-in-australia/)** 
+  _Wed, 17 Jun 2026 15:21:22 +0000_
 
-* **[Atom Computing Reaches $300 Million Funding Milestone to Deploy Fault-Tolerant Neutral-Atom Hardware](https://quantumcomputingreport.com/atom-computing-reaches-300-million-funding-milestone-to-deploy-fault-tolerant-neutral-atom-hardware/)** 
-  _Tue, 16 Jun 2026 18:39:12 +0000_
-
-* **[The Quantum Kid Podcast: How Do You Build a Quantum Startup?](https://thequantuminsider.com/2026/06/16/the-quantum-kid-podcast-how-do-you-build-a-quantum-startup/)** 
-  _Tue, 16 Jun 2026 21:13:25 +0000_
-
-* **[Nord Quantique Names Tobi Day-Hamilton CCO and Angela Olano VP of Marketing](https://thequantuminsider.com/2026/06/16/nord-quantique-adds-two-executives-to-support-growth-and-market-expansion/)** 
-  _Tue, 16 Jun 2026 15:48:08 +0000_
-
-* **[EPB Quantum to Host First Quantum in Business Event in Chattanooga](https://thequantuminsider.com/2026/06/16/epb-quantum-to-host-first-quantum-in-business-event-in-chattanooga/)** 
-  _Tue, 16 Jun 2026 15:31:02 +0000_
+* **[IonQ Launches Clavis XG Multiplex for Quantum Key Distribution on Existing Fiber Networks](https://thequantuminsider.com/2026/06/17/ionq-launches-clavis-xg-multiplex-for-quantum-key-distribution-on-existing-fiber-networks/)** 
+  _Wed, 17 Jun 2026 14:30:26 +0000_
 
 ---
