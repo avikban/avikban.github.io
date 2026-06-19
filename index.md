@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 18, 2026
+# 🚀 Daily Tech Pulse: June 19, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[IQM Highlights Commercial Progress and Quantum Roadmap at Investor Event](https://thequantuminsider.com/2026/06/17/iqm-highlights-commercial-progress-and-quantum-roadmap-at-investor-event/)** 
-  _Wed, 17 Jun 2026 17:46:43 +0000_
+* **[Boeing Lab Tests Mark Major Step Toward Space-Based Quantum Network](https://thequantuminsider.com/2026/06/18/boeing-lab-tests-mark-major-step-toward-space-based-quantum-network/)** 
+  _Thu, 18 Jun 2026 18:13:42 +0000_
 
-* **[PsiQuantum Advances Utility-Scale Quantum Computing Project in Australia](https://thequantuminsider.com/2026/06/17/psiquantum-advances-utility-scale-quantum-computing-project-in-australia/)** 
-  _Wed, 17 Jun 2026 15:21:22 +0000_
+* **[New Industry Study Finds Quantum Computing Has Entered a Capability Era, With Early Movers Building an Advantage Later Entrants Will Struggle to Close](https://thequantuminsider.com/2026/06/18/new-industry-study-finds-quantum-computing-has-entered-a-capability-era-with-early-movers-building-an-advantage-later-entrants-will-struggle-to-close/)** 
+  _Thu, 18 Jun 2026 13:07:36 +0000_
 
-* **[IonQ Launches Clavis XG Multiplex for Quantum Key Distribution on Existing Fiber Networks](https://thequantuminsider.com/2026/06/17/ionq-launches-clavis-xg-multiplex-for-quantum-key-distribution-on-existing-fiber-networks/)** 
-  _Wed, 17 Jun 2026 14:30:26 +0000_
+* **[Former CIA Executive Eman Blair Joins QuSecure Federal Advisory Board](https://thequantuminsider.com/2026/06/18/former-cia-executive-eman-blair-joins-qusecure-federal-advisory-board/)** 
+  _Thu, 18 Jun 2026 12:36:32 +0000_
 
 ---
