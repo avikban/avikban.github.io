@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 19, 2026
+# 🚀 Daily Tech Pulse: June 20, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Boeing Lab Tests Mark Major Step Toward Space-Based Quantum Network](https://thequantuminsider.com/2026/06/18/boeing-lab-tests-mark-major-step-toward-space-based-quantum-network/)** 
-  _Thu, 18 Jun 2026 18:13:42 +0000_
+* **[OQC Expands to Barcelona with €92 Million ($98M USD) Global Manufacturing and R&D Hub](https://quantumcomputingreport.com/oqc-expands-to-barcelona-with-e92-million-98m-usd-global-manufacturing-and-rd-hub/)** 
+  _Fri, 19 Jun 2026 20:22:49 +0000_
 
-* **[New Industry Study Finds Quantum Computing Has Entered a Capability Era, With Early Movers Building an Advantage Later Entrants Will Struggle to Close](https://thequantuminsider.com/2026/06/18/new-industry-study-finds-quantum-computing-has-entered-a-capability-era-with-early-movers-building-an-advantage-later-entrants-will-struggle-to-close/)** 
-  _Thu, 18 Jun 2026 13:07:36 +0000_
+* **[Who’s News: Strategic Leadership Appointments at Nord Quantique, IQM Quantum Computers, Quantum Industry Canada, EPB, and QuSecure](https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-nord-quantique-iqm-quantum-computers-epb-and-qusecure/)** 
+  _Fri, 19 Jun 2026 19:27:26 +0000_
 
-* **[Former CIA Executive Eman Blair Joins QuSecure Federal Advisory Board](https://thequantuminsider.com/2026/06/18/former-cia-executive-eman-blair-joins-qusecure-federal-advisory-board/)** 
-  _Thu, 18 Jun 2026 12:36:32 +0000_
+* **[Bipartisan Coalition Introduces Legislation to Establish National Security Commission on Quantum Computing](https://quantumcomputingreport.com/bipartisan-coalition-introduces-legislation-to-establish-national-security-commission-on-quantum-computing/)** 
+  _Fri, 19 Jun 2026 00:49:29 +0000_
+
+* **[EPB Announces Robert Long as President of Strategic Initiatives](https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/)** 
+  _Fri, 19 Jun 2026 13:01:30 +0000_
+
+* **[Diraq Expands U.S. Presence with Palo Alto Office](https://thequantuminsider.com/2026/06/19/diraq-expands-us-presence-with-palo-alto-office/)** 
+  _Fri, 19 Jun 2026 11:09:57 +0000_
+
+* **[Quantum Australia joins Women in STEMM Leadership Summit to Advance Measurable Allyship](https://thequantuminsider.com/2026/06/19/quantum-australia-joins-women-in-stemm-leadership-summit-to-advance-measurable-allyship/)** 
+  _Fri, 19 Jun 2026 10:42:46 +0000_
 
 ---
