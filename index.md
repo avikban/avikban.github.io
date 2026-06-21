@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 20, 2026
+# 🚀 Daily Tech Pulse: June 21, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,14 +13,14 @@
 
 ---
 ## Quantum Updates
-* **[OQC Expands to Barcelona with €92 Million ($98M USD) Global Manufacturing and R&D Hub](https://quantumcomputingreport.com/oqc-expands-to-barcelona-with-e92-million-98m-usd-global-manufacturing-and-rd-hub/)** 
-  _Fri, 19 Jun 2026 20:22:49 +0000_
+* **[IBM Nighthawk Processor Validated in Quantum Chromodynamics and Cybersecurity Benchmarks](https://quantumcomputingreport.com/ibm-nighthawk-processor-validated-in-quantum-chromodynamics-and-cybersecurity-benchmarks/)** 
+  _Sat, 20 Jun 2026 03:46:32 +0000_
 
-* **[Who’s News: Strategic Leadership Appointments at Nord Quantique, IQM Quantum Computers, Quantum Industry Canada, EPB, and QuSecure](https://quantumcomputingreport.com/whos-news-strategic-leadership-appointments-at-nord-quantique-iqm-quantum-computers-epb-and-qusecure/)** 
-  _Fri, 19 Jun 2026 19:27:26 +0000_
+* **[Duke University and IonQ Demonstrate Tripartite Entanglement of Remote Atomic Qubits](https://quantumcomputingreport.com/duke-university-and-ionq-demonstrate-tripartite-entanglement-of-remote-atomic-qubits/)** 
+  _Sat, 20 Jun 2026 03:33:21 +0000_
 
-* **[Bipartisan Coalition Introduces Legislation to Establish National Security Commission on Quantum Computing](https://quantumcomputingreport.com/bipartisan-coalition-introduces-legislation-to-establish-national-security-commission-on-quantum-computing/)** 
-  _Fri, 19 Jun 2026 00:49:29 +0000_
+* **[Fixstars Amplify Integrates IonQ Backend to Support Trapped-Ion Algorithm Prototyping](https://quantumcomputingreport.com/fixstars-amplify-integrates-ionq-backend-to-support-trapped-ion-algorithm-prototyping/)** 
+  _Sat, 20 Jun 2026 03:12:30 +0000_
 
 * **[EPB Announces Robert Long as President of Strategic Initiatives](https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/)** 
   _Fri, 19 Jun 2026 13:01:30 +0000_
