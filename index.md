@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 22, 2026
+# 🚀 Daily Tech Pulse: June 23, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[The Path to Quantum Advantage Is Built on Readiness, Not Hype, IBM Report Suggests](https://thequantuminsider.com/2026/06/21/the-path-to-quantum-advantage-is-built-on-readiness-not-hype-ibm-report-suggests/)** 
-  _Sun, 21 Jun 2026 13:48:43 +0000_
+* **[President Trump Signs Two Executive Orders on Quantum Technology](https://quantumcomputingreport.com/president-trump-signs-two-executive-orders-on-quantum-technology/)** 
+  _Tue, 23 Jun 2026 00:48:40 +0000_
 
-* **[EPB Announces Robert Long as President of Strategic Initiatives](https://thequantuminsider.com/2026/06/19/epb-announces-robert-long-as-president-of-strategic-initiatives/)** 
-  _Fri, 19 Jun 2026 13:01:30 +0000_
+* **[Podcast with Helmut Katzgraber, General partner at 55North](https://quantumcomputingreport.com/podcast-with-helmut-katzgraber-general-partner-at-55north/)** 
+  _Mon, 22 Jun 2026 18:24:11 +0000_
 
-* **[Diraq Expands U.S. Presence with Palo Alto Office](https://thequantuminsider.com/2026/06/19/diraq-expands-us-presence-with-palo-alto-office/)** 
-  _Fri, 19 Jun 2026 11:09:57 +0000_
+* **[Infleqtion Launches America’s Quantum Space Initiative to Develop Orbital Technology Infrastructure](https://quantumcomputingreport.com/infleqtion-launches-americas-quantum-space-initiative-to-develop-orbital-technology-infrastructure/)** 
+  _Mon, 22 Jun 2026 17:34:01 +0000_
+
+* **[Trump Administration Executive Order Places Quantum at Center of Federal Technology Strategy](https://thequantuminsider.com/2026/06/22/trump-administration-executive-order-places-quantum-at-center-of-federal-technology-strategy/)** 
+  _Mon, 22 Jun 2026 21:09:24 +0000_
+
+* **[Trump Administration Expected to Issue Executive Order on Protecting Quantum Research](https://thequantuminsider.com/2026/06/22/trump-administration-expected-to-issue-executive-order-on-protecting-quantum-research/)** 
+  _Mon, 22 Jun 2026 19:30:12 +0000_
+
+* **[NTHU Researchers Develop World’s Brightest Room-Temperature Single-Photon Source](https://thequantuminsider.com/2026/06/22/nthu-researchers-develop-worlds-brightest-single-photon-source-for-quantum-technologies/)** 
+  _Mon, 22 Jun 2026 14:35:53 +0000_
 
 ---
