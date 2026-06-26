@@ -1,34 +1,34 @@
-# 🚀 Daily Tech Pulse: June 25, 2026
+# 🚀 Daily Tech Pulse: June 26, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
+* **[Records Fall for 3D Chip Tech](https://spectrum.ieee.org/hybrid-bonding-2677022836)** 
+  _Thu, 25 Jun 2026 14:00:01 +0000_
+
+* **[Future Transistor Stacking Plans Start to Diverge](https://spectrum.ieee.org/cfet-ibm-plan)** 
+  _Thu, 25 Jun 2026 11:41:45 +0000_
+
 * **[AI Is Designing Radio Chips That Humans Couldn’t Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)** 
   _Wed, 24 Jun 2026 13:00:01 +0000_
 
-* **[The EU Wants Its Own Tech Supply Chain](https://spectrum.ieee.org/europe-tech-sovereignty-package)** 
-  _Tue, 23 Jun 2026 10:00:03 +0000_
-
-* **[Semiconductor Startup Builds Alternatives for Vital Legacy Chips](https://spectrum.ieee.org/phoenix-semiconductors-legacy-chips-oems)** 
-  _Tue, 16 Jun 2026 10:00:02 +0000_
-
 ---
 ## Quantum Updates
-* **[STMicroelectronics Launches ST54M Monolithic Mobile Chip with Post-Quantum Cryptography Accelerator](https://quantumcomputingreport.com/stmicroelectronics-launches-st54m-monolithic-mobile-chip-with-post-quantum-cryptography-accelerator/)** 
-  _Thu, 25 Jun 2026 01:28:07 +0000_
+* **[Qblox Finalizes Crucial U.S. National Laboratory Licensing Agreement and Expands Enterprise High-Performance Computing Footprint](https://quantumcomputingreport.com/qblox-finalizes-crucial-u-s-national-laboratory-licensing-agreement-and-expands-enterprise-high-performance-computing-footprint/)** 
+  _Thu, 25 Jun 2026 18:19:43 +0000_
 
-* **[Classiq and Hatch Validate Hybrid Quantum-Classical Chemistry Pipeline on AWS Infrastructure](https://quantumcomputingreport.com/classiq-and-hatch-validate-hybrid-quantum-classical-chemistry-pipeline-on-aws-infrastructure/)** 
-  _Thu, 25 Jun 2026 01:13:34 +0000_
+* **[WISeKey and SEALSQ Establish Quantisimo Corp. and Execute Nasdaq SPAC Listing Intent with GigCapital8](https://quantumcomputingreport.com/wisekey-and-sealsq-establish-quantisimo-corp-and-execute-nasdaq-spac-listing-intent-with-gigcapital8/)** 
+  _Thu, 25 Jun 2026 13:22:14 +0000_
 
-* **[Classiq and TEA TEK Group Partner to Establish Quantum Computing Hub in Naples](https://quantumcomputingreport.com/classiq-and-tea-tek-group-partner-to-establish-quantum-computing-hub-in-naples/)** 
-  _Thu, 25 Jun 2026 01:01:19 +0000_
+* **[AQSolotl and QuantrolOx Partner to Integrate Chronos-Q Hardware with Quantum EDGE Software Layers](https://quantumcomputingreport.com/aqsolotl-and-quantrolox-partner-to-integrate-chronos-q-hardware-with-quantum-edge-software-layers/)** 
+  _Thu, 25 Jun 2026 13:08:29 +0000_
 
-* **[Classiq and TEA TEK Group Launch Quantum Computing Hub in Naples](https://thequantuminsider.com/2026/06/24/classiq-tea-tek-group-quantum-computing-hub-naples/)** 
-  _Wed, 24 Jun 2026 16:43:05 +0000_
+* **[Tennessee Employers Explore Quantum Opportunities Through New Pre-Apprenticeship](https://thequantuminsider.com/2026/06/25/tennessee-employers-join-nations-first-quantum-pre-apprenticeship-to-prepare-for-emerging-technology-opportunities/)** 
+  _Thu, 25 Jun 2026 15:58:28 +0000_
 
-* **[NSF Selects Five New Teams for National Quantum Virtual Laboratory](https://thequantuminsider.com/2026/06/24/nsf-national-quantum-virtual-laboratory-teams/)** 
-  _Wed, 24 Jun 2026 14:36:59 +0000_
+* **[Qblox and HPE Collaborate on Hybrid Quantum-HPC Computing](https://thequantuminsider.com/2026/06/25/qblox-collaborates-with-hpe-to-advance-hybrid-classical-quantum-computing/)** 
+  _Thu, 25 Jun 2026 15:50:12 +0000_
 
-* **[STMicroelectronics Launches ST54M Post-Quantum Security Chip for Mobile Devices](https://thequantuminsider.com/2026/06/24/stmicroelectronics-unveils-worlds-first-st54m-secure-mobile-chip-with-post-quantum-cryptography-for-next-generation-connected-services/)** 
-  _Wed, 24 Jun 2026 14:23:51 +0000_
+* **[Playground Global Joins NUS Initiative Supporting Singapore’s Quantum Ecosystem](https://thequantuminsider.com/2026/06/25/playground-global-and-matter-venture-partners-join-us117-million-nus-vc-programme-to-tap-singapores-deep-tech-ecosystem/)** 
+  _Thu, 25 Jun 2026 15:32:45 +0000_
 
 ---
