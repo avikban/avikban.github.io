@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 26, 2026
+# 🚀 Daily Tech Pulse: June 27, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Qblox Finalizes Crucial U.S. National Laboratory Licensing Agreement and Expands Enterprise High-Performance Computing Footprint](https://quantumcomputingreport.com/qblox-finalizes-crucial-u-s-national-laboratory-licensing-agreement-and-expands-enterprise-high-performance-computing-footprint/)** 
-  _Thu, 25 Jun 2026 18:19:43 +0000_
+* **[Top Quantum Computing Investors in 2026](https://thequantuminsider.com/2026/06/26/top-quantum-computing-investors-in-2026/)** 
+  _Fri, 26 Jun 2026 13:06:27 +0000_
 
-* **[WISeKey and SEALSQ Establish Quantisimo Corp. and Execute Nasdaq SPAC Listing Intent with GigCapital8](https://quantumcomputingreport.com/wisekey-and-sealsq-establish-quantisimo-corp-and-execute-nasdaq-spac-listing-intent-with-gigcapital8/)** 
-  _Thu, 25 Jun 2026 13:22:14 +0000_
+* **[Former Microsoft Quantum Employee’s New Chinese-Based Startup Lands Pre-A Funding](https://thequantuminsider.com/2026/06/26/former-microsoft-quantum-ctos-new-chinese-based-startup-lands-pre-a-funding/)** 
+  _Fri, 26 Jun 2026 10:18:18 +0000_
 
-* **[AQSolotl and QuantrolOx Partner to Integrate Chronos-Q Hardware with Quantum EDGE Software Layers](https://quantumcomputingreport.com/aqsolotl-and-quantrolox-partner-to-integrate-chronos-q-hardware-with-quantum-edge-software-layers/)** 
-  _Thu, 25 Jun 2026 13:08:29 +0000_
-
-* **[Tennessee Employers Explore Quantum Opportunities Through New Pre-Apprenticeship](https://thequantuminsider.com/2026/06/25/tennessee-employers-join-nations-first-quantum-pre-apprenticeship-to-prepare-for-emerging-technology-opportunities/)** 
-  _Thu, 25 Jun 2026 15:58:28 +0000_
-
-* **[Qblox and HPE Collaborate on Hybrid Quantum-HPC Computing](https://thequantuminsider.com/2026/06/25/qblox-collaborates-with-hpe-to-advance-hybrid-classical-quantum-computing/)** 
-  _Thu, 25 Jun 2026 15:50:12 +0000_
-
-* **[Playground Global Joins NUS Initiative Supporting Singapore’s Quantum Ecosystem](https://thequantuminsider.com/2026/06/25/playground-global-and-matter-venture-partners-join-us117-million-nus-vc-programme-to-tap-singapores-deep-tech-ecosystem/)** 
-  _Thu, 25 Jun 2026 15:32:45 +0000_
+* **[University of Maryland Grant Targets Quantum and AI Tools for Cancer Research](https://thequantuminsider.com/2026/06/26/university-of-maryland-grant-targets-quantum-and-ai-tools-for-cancer-research/)** 
+  _Fri, 26 Jun 2026 08:21:22 +0000_
 
 ---
