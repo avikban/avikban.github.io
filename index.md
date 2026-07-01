@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: June 30, 2026
+# 🚀 Daily Tech Pulse: July 01, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[JIJ Appoints Steven Gibson to Lead U.S. Expansion](https://thequantuminsider.com/2026/06/29/jij-appoints-steven-gibson-to-lead-u-s-expansion/)** 
-  _Mon, 29 Jun 2026 21:23:31 +0000_
+* **[StarkWare Unveils Quantum-Safe Roadmap for Starknet](https://thequantuminsider.com/2026/06/30/starkware-releases-roadmap-to-make-starknet-quantum-safe/)** 
+  _Tue, 30 Jun 2026 16:57:38 +0000_
 
-* **[NIST Taps SRI to Establish The Quantum Manufacturing Engineering Center (QMEC)](https://thequantuminsider.com/2026/06/29/nist-taps-sri-to-establish-the-quantum-manufacturing-engineering-center-qmec/)** 
-  _Mon, 29 Jun 2026 21:16:17 +0000_
+* **[Europe Launches Quantum Skills Academy to Expand Workforce Development](https://thequantuminsider.com/2026/06/30/europe-launches-new-quantum-and-ai-skills-academies-to-build-its-critical-tech-workforce/)** 
+  _Tue, 30 Jun 2026 16:47:27 +0000_
 
-* **[WiMi Explores Neural Networks for Twin-Field Quantum Key Distribution Optimization](https://thequantuminsider.com/2026/06/29/wimi-neural-networks-dual-field-quantum-key-distribution-optimization/)** 
-  _Mon, 29 Jun 2026 15:56:19 +0000_
+* **[Copernic Space and Intrana Partner to Secure Space Assets Against Looming Quantum Threat](https://thequantuminsider.com/2026/06/30/copernic-space-and-intrana-partner-to-secure-space-assets-against-looming-quantum-threat/)** 
+  _Tue, 30 Jun 2026 14:19:13 +0000_
 
 ---
