@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 01, 2026
+# 🚀 Daily Tech Pulse: July 02, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[StarkWare Unveils Quantum-Safe Roadmap for Starknet](https://thequantuminsider.com/2026/06/30/starkware-releases-roadmap-to-make-starknet-quantum-safe/)** 
-  _Tue, 30 Jun 2026 16:57:38 +0000_
+* **[Quantum Leap Raises $230 Million as SPAC Eyes AI And Quantum Targets](https://thequantuminsider.com/2026/07/01/quantum-leap-raises-230-million-as-spac-eyes-ai-and-quantum-targets/)** 
+  _Wed, 01 Jul 2026 14:58:42 +0000_
 
-* **[Europe Launches Quantum Skills Academy to Expand Workforce Development](https://thequantuminsider.com/2026/06/30/europe-launches-new-quantum-and-ai-skills-academies-to-build-its-critical-tech-workforce/)** 
-  _Tue, 30 Jun 2026 16:47:27 +0000_
+* **[Classiq and QAI Launch Quantum Cloud Offering in Korea](https://thequantuminsider.com/2026/07/01/classiq-and-qai-launch-quantum-cloud-offering-in-korea/)** 
+  _Wed, 01 Jul 2026 14:44:28 +0000_
 
-* **[Copernic Space and Intrana Partner to Secure Space Assets Against Looming Quantum Threat](https://thequantuminsider.com/2026/06/30/copernic-space-and-intrana-partner-to-secure-space-assets-against-looming-quantum-threat/)** 
-  _Tue, 30 Jun 2026 14:19:13 +0000_
+* **[NSA Introduces QuantumEAGLe Program to Advance U.S. Quantum Computing](https://thequantuminsider.com/2026/07/01/nsa-devcom-army-research-office-launch-quantumeagle-initiative/)** 
+  _Wed, 01 Jul 2026 14:40:59 +0000_
 
 ---
