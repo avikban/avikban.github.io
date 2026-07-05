@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 04, 2026
+# 🚀 Daily Tech Pulse: July 05, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,14 +13,14 @@
 
 ---
 ## Quantum Updates
-* **[South Korea Expands International Alliances with Canada, UK, and EU at Quantum Korea 2026](https://quantumcomputingreport.com/south-korea-expands-international-alliances-with-canada-uk-and-eu-at-quantum-korea-2026/)** 
-  _Fri, 03 Jul 2026 18:48:43 +0000_
+* **[Who’s News: Strategic Appointments at Silicon Quantum Computing, Pasqal, JIJ, IQM Quantum Computers, IBM, and PostScriptum](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-silicon-quantum-computing-pasqal-jij-iqm-quantum-computers-ibm-and-postscriptum/)** 
+  _Sat, 04 Jul 2026 03:15:22 +0000_
 
-* **[PostScriptum Executes Strategic Investment in SemiQon alongside €30 Million ($34.35 Million USD) Quantum Fund Commitment](https://quantumcomputingreport.com/postscriptum-executes-strategic-investment-in-semiqon-alongside-e30-million-34-35-million-usd-quantum-fund-commitment/)** 
-  _Fri, 03 Jul 2026 12:10:25 +0000_
+* **[IBM Quantum Credits Program Drives Advanced Algorithmic Breakthroughs Beyond Classical Limits](https://quantumcomputingreport.com/ibm-quantum-credits-program-drives-advanced-algorithmic-breakthroughs-beyond-classical-limits/)** 
+  _Sat, 04 Jul 2026 02:33:03 +0000_
 
-* **[xDots Showcases Room-Temperature Quantum Sensing System at Quantum Korea 2026](https://quantumcomputingreport.com/xdots-showcases-room-temperature-quantum-sensing-system-at-quantum-korea-2026/)** 
-  _Fri, 03 Jul 2026 11:51:11 +0000_
+* **[IBM to Commission One of India’s First Physical Quantum Computers in Amaravati by September 2026](https://quantumcomputingreport.com/ibm-to-commission-one-of-indias-first-physical-quantum-computers-in-amaravati-by-september-2026/)** 
+  _Sat, 04 Jul 2026 02:18:13 +0000_
 
 * **[Researchers Propose Thermodynamic Computing Architecture That Could Dramatically Reduce AI Energy Use](https://thequantuminsider.com/2026/07/03/researchers-propose-thermodynamic-computing-architecture-that-could-dramatically-reduce-ai-energy-use/)** 
   _Fri, 03 Jul 2026 13:35:01 +0000_
