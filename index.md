@@ -1,25 +1,34 @@
-# 🚀 Daily Tech Pulse: July 07, 2026
+# 🚀 Daily Tech Pulse: July 08, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
+* **[Brain-Inspired Light Sensor Could Speed AI Image Processing](https://spectrum.ieee.org/hybrid-phototransistor)** 
+  _Tue, 07 Jul 2026 13:00:01 +0000_
+
 * **[Chip R&D Is Accelerating to Keep Pace With AI](https://spectrum.ieee.org/ai-chip-design-fab-ucla)** 
   _Thu, 02 Jul 2026 11:00:02 +0000_
 
 * **[The Lab Mistake That Might Revolutionize Computing](https://spectrum.ieee.org/artificial-neurons-on-silicon-chips)** 
   _Mon, 29 Jun 2026 13:00:01 +0000_
 
-* **[Records Fall for 3D Chip Tech](https://spectrum.ieee.org/hybrid-bonding-2677022836)** 
-  _Thu, 25 Jun 2026 14:00:01 +0000_
-
 ---
 ## Quantum Updates
-* **[China’s Bose Quantum Reportedly Raises Pre-IPO Funding](https://thequantuminsider.com/2026/07/06/chinas-bose-quantum-reportedly-raises-pre-ipo-funding/)** 
-  _Mon, 06 Jul 2026 18:07:47 +0000_
+* **[Alfred University and Classiq Launch Joint Academic Quantum Computing Initiative](https://quantumcomputingreport.com/alfred-university-and-classiq-launch-joint-academic-quantum-computing-initiative/)** 
+  _Tue, 07 Jul 2026 19:29:29 +0000_
 
-* **[MagiQware Raises €575K Pre-Seed Round to Advance AI Software For Quantum Computing](https://thequantuminsider.com/2026/07/06/magiqware-raises-e575k-pre-seed-round-to-advance-ai-software-for-quantum-computing/)** 
-  _Mon, 06 Jul 2026 13:37:23 +0000_
+* **[Podcast with Corey O’Meara, Chief Quantum Scientist at E.ON Digital Technology](https://quantumcomputingreport.com/podcast-with-corey-omeara-chief-quantum-scientist-at-e-on-digital-technology/)** 
+  _Mon, 06 Jul 2026 19:14:22 +0000_
 
-* **[IQM Acquires Quantistry Assets to Expand Industrial Quantum Software Capabilities](https://thequantuminsider.com/2026/07/06/iqm-acquires-quantistry-assets/)** 
-  _Mon, 06 Jul 2026 13:05:46 +0000_
+* **[MagiQware Secures €575K ($658K USD) Pre-Seed Allocation to Optimize Quantum Magic State Factories via Reinforcement Learning](https://quantumcomputingreport.com/magiqware-secures-e575k-658k-usd-pre-seed-allocation-to-optimize-quantum-magic-state-factories-via-reinforcement-learning/)** 
+  _Mon, 06 Jul 2026 18:27:07 +0000_
+
+* **[NSF Launches Project Triad to Advance Quantum Technology For Real-World Applications](https://thequantuminsider.com/2026/07/07/nsf-launches-project-triad-to-advance-quantum-technology-for-real-world-applications/)** 
+  _Tue, 07 Jul 2026 19:30:41 +0000_
+
+* **[Oratomic Raises $300 Million Series A](https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/)** 
+  _Tue, 07 Jul 2026 17:38:03 +0000_
+
+* **[Photonic Names Orlagh Neary and Briony Shipman to Executive Roles](https://thequantuminsider.com/2026/07/07/photonic-appoints-marketing-government-affairs-leaders/)** 
+  _Tue, 07 Jul 2026 15:22:43 +0000_
 
 ---
