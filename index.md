@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 14, 2026
+# 🚀 Daily Tech Pulse: July 15, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Q-PLANET Begins Development of European Pilot Line for Neutral Atom Quantum Chips](https://thequantuminsider.com/2026/07/13/launch-of-q-planet-european-pilot-line-to-industrialize-neutral-atom-quantum-chips/)** 
-  _Mon, 13 Jul 2026 16:54:32 +0000_
+* **[NSF Funds 12 New Regional Innovation Engines Including Quantum Technologies Initiative](https://thequantuminsider.com/2026/07/14/nsf-funds-12-regional-innovation-engines/)** 
+  _Tue, 14 Jul 2026 17:31:09 +0000_
 
-* **[Imec and Diraq Demonstrate Eight-Qubit Silicon Spin Array on CMOS-Compatible Platform](https://thequantuminsider.com/2026/07/13/imec-diraq-eight-qubit-silicon-spin-qubit-array/)** 
-  _Mon, 13 Jul 2026 16:41:44 +0000_
+* **[enQase Receives FIPS 140-3 Validation for Cryptographic Security Module](https://thequantuminsider.com/2026/07/14/enqase-receives-fips-140-3-validation-for-cryptographic-module/)** 
+  _Tue, 14 Jul 2026 17:02:00 +0000_
 
-* **[Study Finds Imaginary Numbers May Not Be Essential to Quantum Mechanics](https://thequantuminsider.com/2026/07/13/physicists-say-quantum-mechanics-may-not-need-imaginary-numbers-after-all/)** 
-  _Mon, 13 Jul 2026 14:01:40 +0000_
+* **[NTHU Future Fund to Support Quantum Technology Startups in Taiwan](https://thequantuminsider.com/2026/07/14/nthu-future-fund-quantum-technology-startups/)** 
+  _Tue, 14 Jul 2026 15:03:23 +0000_
 
 ---
