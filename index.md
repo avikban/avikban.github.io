@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 15, 2026
+# 🚀 Daily Tech Pulse: July 16, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[NSF Funds 12 New Regional Innovation Engines Including Quantum Technologies Initiative](https://thequantuminsider.com/2026/07/14/nsf-funds-12-regional-innovation-engines/)** 
-  _Tue, 14 Jul 2026 17:31:09 +0000_
+* **[Classiq and ParityQC Partner to Streamline Hardware-Aware Circuit Optimization](https://quantumcomputingreport.com/classiq-and-parityqc-partner-to-streamline-hardware-aware-circuit-optimization/)** 
+  _Wed, 15 Jul 2026 15:04:13 +0000_
 
-* **[enQase Receives FIPS 140-3 Validation for Cryptographic Security Module](https://thequantuminsider.com/2026/07/14/enqase-receives-fips-140-3-validation-for-cryptographic-module/)** 
-  _Tue, 14 Jul 2026 17:02:00 +0000_
+* **[Planckian Partners with Quantum Elements to Model Superconducting Hardware Noise](https://quantumcomputingreport.com/planckian-partners-with-quantum-elements-to-model-superconducting-hardware-noise/)** 
+  _Wed, 15 Jul 2026 14:20:28 +0000_
 
-* **[NTHU Future Fund to Support Quantum Technology Startups in Taiwan](https://thequantuminsider.com/2026/07/14/nthu-future-fund-quantum-technology-startups/)** 
-  _Tue, 14 Jul 2026 15:03:23 +0000_
+* **[NTHU and Top Taiwan Venture Capital Launch NT$1 Billion ($34M USD) “NTHU Future Fund” for Deep Tech Startups](https://quantumcomputingreport.com/nthu-and-top-taiwan-venture-capital-launch-nt1-billion-31-1m-usd-nthu-future-fund-for-deep-tech-startups/)** 
+  _Tue, 14 Jul 2026 19:52:49 +0000_
+
+* **[QED-C Brings Quantum Industry to Capitol Hill for 2026 Technology Showcase](https://thequantuminsider.com/2026/07/15/qed-c-brings-quantum-industry-to-capitol-hill-for-2026-technology-showcase/)** 
+  _Wed, 15 Jul 2026 18:01:04 +0000_
+
+* **[QuSecure Lists QuProtect R3 on AWS Marketplace for U.S. Intelligence Community](https://thequantuminsider.com/2026/07/15/qusecure-quprotect-r3-listed-in-aws-icmp-for-the-us-federal-government/)** 
+  _Wed, 15 Jul 2026 14:10:36 +0000_
+
+* **[Aqarios Lists on Düsseldorf Exchange, Says It Is Germany’s First Pure-Play Public Quantum Computing Company](https://thequantuminsider.com/2026/07/15/aqarios-lists-on-dusseldorf-exchange-says-it-is-germanys-first-pure-play-public-quantum-computing-company/)** 
+  _Wed, 15 Jul 2026 14:02:19 +0000_
 
 ---
