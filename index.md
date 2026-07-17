@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 16, 2026
+# 🚀 Daily Tech Pulse: July 17, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Classiq and ParityQC Partner to Streamline Hardware-Aware Circuit Optimization](https://quantumcomputingreport.com/classiq-and-parityqc-partner-to-streamline-hardware-aware-circuit-optimization/)** 
-  _Wed, 15 Jul 2026 15:04:13 +0000_
+* **[Bloq Quantum Partners with MIUUL to Expand Quantum Machine Learning in Turkey](https://quantumcomputingreport.com/bloq-quantum-partners-with-miuul-to-expand-quantum-machine-learning-in-turkey/)** 
+  _Thu, 16 Jul 2026 15:09:54 +0000_
 
-* **[Planckian Partners with Quantum Elements to Model Superconducting Hardware Noise](https://quantumcomputingreport.com/planckian-partners-with-quantum-elements-to-model-superconducting-hardware-noise/)** 
-  _Wed, 15 Jul 2026 14:20:28 +0000_
+* **[Arq Quantum Technologies Secures $1.4M Pre-Seed for Multiplexed Quantum Repeaters](https://quantumcomputingreport.com/arq-quantum-technologies-secures-1-4m-pre-seed-for-multiplexed-quantum-repeaters/)** 
+  _Thu, 16 Jul 2026 14:54:11 +0000_
 
-* **[NTHU and Top Taiwan Venture Capital Launch NT$1 Billion ($34M USD) “NTHU Future Fund” for Deep Tech Startups](https://quantumcomputingreport.com/nthu-and-top-taiwan-venture-capital-launch-nt1-billion-31-1m-usd-nthu-future-fund-for-deep-tech-startups/)** 
-  _Tue, 14 Jul 2026 19:52:49 +0000_
+* **[enQase Achieves FIPS 140-3 Overall Level 1 Validation for Cryptographic Module](https://quantumcomputingreport.com/enqase-achieves-fips-140-3-overall-level-1-validation-for-cryptographic-module/)** 
+  _Thu, 16 Jul 2026 14:42:33 +0000_
 
-* **[QED-C Brings Quantum Industry to Capitol Hill for 2026 Technology Showcase](https://thequantuminsider.com/2026/07/15/qed-c-brings-quantum-industry-to-capitol-hill-for-2026-technology-showcase/)** 
-  _Wed, 15 Jul 2026 18:01:04 +0000_
+* **[Quantum Source and Israel’s DDR&D Demonstrate Robust Single-Atom Source for Real-World Quantum Communication](https://thequantuminsider.com/2026/07/16/quantum-source-robust-entangled-photon-source-quantum-networks/)** 
+  _Thu, 16 Jul 2026 15:47:50 +0000_
 
-* **[QuSecure Lists QuProtect R3 on AWS Marketplace for U.S. Intelligence Community](https://thequantuminsider.com/2026/07/15/qusecure-quprotect-r3-listed-in-aws-icmp-for-the-us-federal-government/)** 
-  _Wed, 15 Jul 2026 14:10:36 +0000_
+* **[Digital Catapult Welcomes New Cohort to Explore Industrial Quantum Applications](https://thequantuminsider.com/2026/07/16/digital-catapult-quantum-technology-access-programme-cohort/)** 
+  _Thu, 16 Jul 2026 14:43:26 +0000_
 
-* **[Aqarios Lists on Düsseldorf Exchange, Says It Is Germany’s First Pure-Play Public Quantum Computing Company](https://thequantuminsider.com/2026/07/15/aqarios-lists-on-dusseldorf-exchange-says-it-is-germanys-first-pure-play-public-quantum-computing-company/)** 
-  _Wed, 15 Jul 2026 14:02:19 +0000_
+* **[Former IBM Quantum Executive Denise Ruffner Joins Haiqu to Expand Quantum Software Adoption](https://thequantuminsider.com/2026/07/16/denise-ruffner-joins-haiqu-to-expand-quantum-software-adoption/)** 
+  _Thu, 16 Jul 2026 13:59:25 +0000_
 
 ---
