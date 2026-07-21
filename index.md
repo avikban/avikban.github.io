@@ -1,34 +1,25 @@
-# 🚀 Daily Tech Pulse: July 20, 2026
+# 🚀 Daily Tech Pulse: July 21, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
-* **[Stacking Chips Sideways Gives AI More Memory](https://spectrum.ieee.org/stacking-chips-sideways)** 
-  _Wed, 08 Jul 2026 10:00:02 +0000_
+* **[SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis](https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207)** 
+  _Mon, 20 Jul 2026 15:55:00 +0000_
 
-* **[Brain-Inspired Light Sensor Could Speed AI Image Processing](https://spectrum.ieee.org/hybrid-phototransistor)** 
-  _Tue, 07 Jul 2026 13:00:01 +0000_
+* **[We’re Squandering LEDs’ Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)** 
+  _Mon, 20 Jul 2026 13:00:01 +0000_
 
-* **[Chip R&D Is Accelerating to Keep Pace With AI](https://spectrum.ieee.org/ai-chip-design-fab-ucla)** 
-  _Thu, 02 Jul 2026 11:00:02 +0000_
+* **[The Memory in Your Thumb Drive Could Fix AI’s Big Problem](https://spectrum.ieee.org/high-bandwidth-flash)** 
+  _Tue, 14 Jul 2026 13:00:01 +0000_
 
 ---
 ## Quantum Updates
-* **[Who’s News: Strategic Appointments at Pasqal, PsiQuantum, and Haiqu](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-pasqal-psiquantum-and-haiqu/)** 
-  _Sat, 18 Jul 2026 05:04:36 +0000_
+* **[CQE-led Bloch Quantum Tech Hub Raises $55 Million](https://thequantuminsider.com/2026/07/20/cqe-led-bloch-quantum-tech-hub-raises-55-million/)** 
+  _Mon, 20 Jul 2026 22:12:31 +0000_
 
-* **[Aqarios Enters Public Markets via SPAC, Becoming Germany’s First Listed Quantum Pure-Play](https://quantumcomputingreport.com/aqarios-enters-public-markets-via-spac-becoming-germanys-first-listed-quantum-pure-play/)** 
-  _Sat, 18 Jul 2026 04:44:06 +0000_
+* **[Interlune Develops Cryogenic Technology to Expand Helium-3 Supply for Quantum Computing](https://thequantuminsider.com/2026/07/20/interlune-produces-pure-helium-3-from-domestic-helium-using-novel-cryogenic-technology/)** 
+  _Mon, 20 Jul 2026 17:12:54 +0000_
 
-* **[Singapore’s pQCee Raises $3.9M Seed Round to Accelerate Global Crypto-Agility Deployment](https://quantumcomputingreport.com/singapores-pqcee-raises-3-9m-seed-round-to-accelerate-global-crypto-agility-deployment/)** 
-  _Sat, 18 Jul 2026 04:17:40 +0000_
-
-* **[Guest Post: Patentability of Quantum Computing Inventions](https://thequantuminsider.com/2026/07/18/guest-post-patentability-of-quantum-computing-inventions/)** 
-  _Sat, 18 Jul 2026 10:57:47 +0000_
-
-* **[QTREX Quantum Appoints Dr. Shlomit Chappel-Ram as Independent Director](https://thequantuminsider.com/2026/07/17/qtrex-quantum-appoints-shlomit-chappel-ram-independent-director/)** 
-  _Fri, 17 Jul 2026 14:00:48 +0000_
-
-* **[Tennessee Launches K-12 Quantum Education Program Through TN QuantumWorks](https://thequantuminsider.com/2026/07/17/tn-quantumworks-k12-quantum-education-program/)** 
-  _Fri, 17 Jul 2026 12:31:06 +0000_
+* **[Maybell Quantum to Establish New Mexico Operations as part of New Mexico’s $450 Million Quantum Initiative](https://thequantuminsider.com/2026/07/20/maybell-quantum-new-mexico-quantum-lab/)** 
+  _Mon, 20 Jul 2026 14:18:00 +0000_
 
 ---
