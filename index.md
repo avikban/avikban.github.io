@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 21, 2026
+# 🚀 Daily Tech Pulse: July 22, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[CQE-led Bloch Quantum Tech Hub Raises $55 Million](https://thequantuminsider.com/2026/07/20/cqe-led-bloch-quantum-tech-hub-raises-55-million/)** 
-  _Mon, 20 Jul 2026 22:12:31 +0000_
+* **[Quantinuum and SoftBank Publish Framework Linking Quantum Hardware to Enterprise Use Cases](https://quantumcomputingreport.com/quantinuum-and-softbank-publish-framework-linking-quantum-hardware-to-enterprise-use-cases/)** 
+  _Wed, 22 Jul 2026 00:58:47 +0000_
 
-* **[Interlune Develops Cryogenic Technology to Expand Helium-3 Supply for Quantum Computing](https://thequantuminsider.com/2026/07/20/interlune-produces-pure-helium-3-from-domestic-helium-using-novel-cryogenic-technology/)** 
-  _Mon, 20 Jul 2026 17:12:54 +0000_
+* **[SAXON Q Launches 100+ Qubit Diamond-Based Room-Temperature Quantum Computers](https://quantumcomputingreport.com/saxon-q-launches-100-qubit-diamond-based-room-temperature-quantum-computers/)** 
+  _Wed, 22 Jul 2026 00:49:21 +0000_
 
-* **[Maybell Quantum to Establish New Mexico Operations as part of New Mexico’s $450 Million Quantum Initiative](https://thequantuminsider.com/2026/07/20/maybell-quantum-new-mexico-quantum-lab/)** 
-  _Mon, 20 Jul 2026 14:18:00 +0000_
+* **[Photon Queue Raises $4M Oversubscribed Seed Round to Commercialize Room-Temperature Quantum Memory](https://quantumcomputingreport.com/photon-queue-raises-4m-oversubscribed-seed-round-to-commercialize-room-temperature-quantum-memory/)** 
+  _Wed, 22 Jul 2026 00:38:30 +0000_
+
+* **[Galaxy Commits $5 Million to Prepare Bitcoin for Quantum Computing Threat](https://thequantuminsider.com/2026/07/21/galaxy-commits-5-million-to-prepare-bitcoin-for-quantum-computing-threat/)** 
+  _Tue, 21 Jul 2026 18:46:30 +0000_
+
+* **[UK Government Puts AI at Cabinet Level as DSIT Is Dissolved, Raising Questions For Quantum Strategy](https://thequantuminsider.com/2026/07/21/uk-government-puts-ai-at-cabinet-level-as-dsit-is-dissolved-raising-questions-for-quantum-strategy/)** 
+  _Tue, 21 Jul 2026 15:13:21 +0000_
+
+* **[Singapore Defence Agencies Partner With IBM to Explore Quantum Computing Applications](https://thequantuminsider.com/2026/07/21/singapore-defence-agencies-ibm-quantum-computing-collaboration/)** 
+  _Tue, 21 Jul 2026 15:07:02 +0000_
 
 ---
