@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 24, 2026
+# 🚀 Daily Tech Pulse: July 25, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[IQMP and Q-STAR Partner to Expand Japan-Illinois Quantum Collaboration](https://thequantuminsider.com/2026/07/23/iqmp-q-star-japan-illinois-quantum-collaboration/)** 
-  _Thu, 23 Jul 2026 17:49:29 +0000_
+* **[Photonic Quantum Technology Companies in 2026](https://thequantuminsider.com/2026/07/24/9-quantum-computing-companies-working-with-photonic-technology/)** 
+  _Fri, 24 Jul 2026 17:24:46 +0000_
 
-* **[New White House Science Strategy Points to a Quantum-Style Innovation Model](https://thequantuminsider.com/2026/07/23/new-white-house-science-strategy-points-to-a-quantum-style-innovation-model/)** 
-  _Thu, 23 Jul 2026 14:35:07 +0000_
+* **[SKKU-led Team Identifies ‘Zinc Oxide Spin Qubit’ — A Semiconductor-Based Quantum Technology](https://thequantuminsider.com/2026/07/24/skku-led-team-identifies-zinc-oxide-spin-qubit-a-semiconductor-based-quantum-technology/)** 
+  _Fri, 24 Jul 2026 13:41:07 +0000_
 
-* **[Infleqtion to Deploy Neutral-Atom Quantum Computer at Illinois Quantum Park in 2027](https://thequantuminsider.com/2026/07/23/infleqtion-neutral-atom-quantum-computer-illinois/)** 
-  _Thu, 23 Jul 2026 14:00:00 +0000_
+* **[Quantum Materials Engineering – The Atoms Powering Quantum Computing](https://thequantuminsider.com/2026/07/24/quantum-materials-engineering-the-atoms-powering-quantum-computing/)** 
+  _Fri, 24 Jul 2026 11:27:33 +0000_
 
 ---
