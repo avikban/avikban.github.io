@@ -1,15 +1,15 @@
-# 🚀 Daily Tech Pulse: July 26, 2026
+# 🚀 Daily Tech Pulse: July 27, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
+* **[Optical Tech Would Update a Robot’s AI on the Fly](https://spectrum.ieee.org/ai-in-robotics)** 
+  _Sun, 26 Jul 2026 13:00:01 +0000_
+
 * **[Sleep Patch Could Track Brain’s Nightly Cleansing Ritual](https://spectrum.ieee.org/sleep-monitoring-device)** 
   _Thu, 23 Jul 2026 12:00:01 +0000_
 
 * **[SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis](https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207)** 
   _Mon, 20 Jul 2026 15:55:00 +0000_
-
-* **[We’re Squandering LEDs’ Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)** 
-  _Mon, 20 Jul 2026 13:00:01 +0000_
 
 ---
 ## Quantum Updates
