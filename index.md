@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 28, 2026
+# 🚀 Daily Tech Pulse: July 29, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Applications Open for Tennessee Quantum Hackathon Focused on Energy Applications](https://thequantuminsider.com/2026/07/27/tennessee-quantum-hackathon-energy-applications/)** 
-  _Mon, 27 Jul 2026 15:50:11 +0000_
+* **[IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology](https://thequantuminsider.com/2026/07/28/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology/)** 
+  _Tue, 28 Jul 2026 21:48:55 +0000_
 
-* **[Pittsburgh Supercomputing Center Will Build New Hybrid Quantum-Classical Supercomputer](https://thequantuminsider.com/2026/07/27/pittsburgh-supercomputing-center-will-build-new-hybrid-quantum-classical-supercomputer/)** 
-  _Mon, 27 Jul 2026 14:58:45 +0000_
+* **[Two Hands Corporation Opens External Beta Testing for EntangleX Quantum Circuit Simulator](https://thequantuminsider.com/2026/07/28/two-hands-corporation-entanglex-beta-testing/)** 
+  _Tue, 28 Jul 2026 16:29:08 +0000_
 
-* **[D-Wave and AT&T Explore Quantum Computing Applications in Network Operations](https://thequantuminsider.com/2026/07/27/d-wave-att-quantum-network-operations/)** 
-  _Mon, 27 Jul 2026 12:35:16 +0000_
+* **[Riverlane and Unitary Foundation Launch ‘Deltakit Community Fund’ to Accelerate Open-Source Quantum Error Correction](https://thequantuminsider.com/2026/07/28/riverlane-unitary-foundation-deltakit-community-fund/)** 
+  _Tue, 28 Jul 2026 14:10:04 +0000_
 
 ---
