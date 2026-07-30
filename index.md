@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 29, 2026
+# 🚀 Daily Tech Pulse: July 30, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology](https://thequantuminsider.com/2026/07/28/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology/)** 
-  _Tue, 28 Jul 2026 21:48:55 +0000_
+* **[HRL Laboratories Demonstrates Self-Running Silicon QPU in Nature Benchmark](https://quantumcomputingreport.com/hrl-laboratories-demonstrates-self-running-silicon-qpu-in-nature-benchmark/)** 
+  _Wed, 29 Jul 2026 16:26:31 +0000_
 
-* **[Two Hands Corporation Opens External Beta Testing for EntangleX Quantum Circuit Simulator](https://thequantuminsider.com/2026/07/28/two-hands-corporation-entanglex-beta-testing/)** 
-  _Tue, 28 Jul 2026 16:29:08 +0000_
+* **[Horizon Quantum and Quantum Machines Partner to Advance Real-Time Quantum Calibration](https://quantumcomputingreport.com/horizon-quantum-and-quantum-machines-partner-to-advance-real-time-quantum-calibration/)** 
+  _Wed, 29 Jul 2026 15:06:35 +0000_
 
-* **[Riverlane and Unitary Foundation Launch ‘Deltakit Community Fund’ to Accelerate Open-Source Quantum Error Correction](https://thequantuminsider.com/2026/07/28/riverlane-unitary-foundation-deltakit-community-fund/)** 
-  _Tue, 28 Jul 2026 14:10:04 +0000_
+* **[QED-C and Center for Quantum Networks Release Quantum Networking Roadmap](https://quantumcomputingreport.com/qed-c-and-center-for-quantum-networks-release-quantum-networking-roadmap/)** 
+  _Wed, 29 Jul 2026 13:52:29 +0000_
+
+* **[HRL Shows Self-Operating Silicon Quantum Processor That Performs Error Correction](https://thequantuminsider.com/2026/07/29/hrl-shows-self-operating-silicon-quantum-processor-that-performs-error-correction/)** 
+  _Wed, 29 Jul 2026 15:03:00 +0000_
+
+* **[The Growing Quantum Security Challenge Facing Bitcoin and Digital Assets](https://thequantuminsider.com/2026/07/29/growing-quantum-security-challenge-bitcoin-digital-assets/)** 
+  _Wed, 29 Jul 2026 14:24:22 +0000_
+
+* **[EY Announces On-Site Quantum Computing](https://thequantuminsider.com/2026/07/29/ey-announces-on-site-quantum-computing/)** 
+  _Wed, 29 Jul 2026 13:53:28 +0000_
 
 ---
