@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 30, 2026
+# 🚀 Daily Tech Pulse: July 31, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[HRL Laboratories Demonstrates Self-Running Silicon QPU in Nature Benchmark](https://quantumcomputingreport.com/hrl-laboratories-demonstrates-self-running-silicon-qpu-in-nature-benchmark/)** 
-  _Wed, 29 Jul 2026 16:26:31 +0000_
+* **[Booz Allen Backs the Search for Quantum’s Next Breakout Company](https://thequantuminsider.com/2026/07/30/booz-allen-backs-the-search-for-quantums-next-breakout-company/)** 
+  _Thu, 30 Jul 2026 18:48:33 +0000_
 
-* **[Horizon Quantum and Quantum Machines Partner to Advance Real-Time Quantum Calibration](https://quantumcomputingreport.com/horizon-quantum-and-quantum-machines-partner-to-advance-real-time-quantum-calibration/)** 
-  _Wed, 29 Jul 2026 15:06:35 +0000_
+* **[NIST’s Andrew Regenscheid Explains the Transition to Post-Quantum Cryptography](https://thequantuminsider.com/2026/07/30/nist-andrew-regenscheid-post-quantum-cryptography-transition/)** 
+  _Thu, 30 Jul 2026 18:26:06 +0000_
 
-* **[QED-C and Center for Quantum Networks Release Quantum Networking Roadmap](https://quantumcomputingreport.com/qed-c-and-center-for-quantum-networks-release-quantum-networking-roadmap/)** 
-  _Wed, 29 Jul 2026 13:52:29 +0000_
-
-* **[HRL Shows Self-Operating Silicon Quantum Processor That Performs Error Correction](https://thequantuminsider.com/2026/07/29/hrl-shows-self-operating-silicon-quantum-processor-that-performs-error-correction/)** 
-  _Wed, 29 Jul 2026 15:03:00 +0000_
-
-* **[The Growing Quantum Security Challenge Facing Bitcoin and Digital Assets](https://thequantuminsider.com/2026/07/29/growing-quantum-security-challenge-bitcoin-digital-assets/)** 
-  _Wed, 29 Jul 2026 14:24:22 +0000_
-
-* **[EY Announces On-Site Quantum Computing](https://thequantuminsider.com/2026/07/29/ey-announces-on-site-quantum-computing/)** 
-  _Wed, 29 Jul 2026 13:53:28 +0000_
+* **[NRL Expands Quantum Research Efforts Across Sensing, Computing and Networking](https://thequantuminsider.com/2026/07/30/us-naval-research-laboratory-quantum-technology-research/)** 
+  _Thu, 30 Jul 2026 18:10:32 +0000_
 
 ---
