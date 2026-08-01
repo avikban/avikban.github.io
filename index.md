@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: July 31, 2026
+# 🚀 Daily Tech Pulse: August 01, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Booz Allen Backs the Search for Quantum’s Next Breakout Company](https://thequantuminsider.com/2026/07/30/booz-allen-backs-the-search-for-quantums-next-breakout-company/)** 
-  _Thu, 30 Jul 2026 18:48:33 +0000_
+* **[SEALSQ Begins Commercial Deployment of Miraex Quantum Photonics Technology](https://thequantuminsider.com/2026/07/31/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology/)** 
+  _Fri, 31 Jul 2026 14:58:43 +0000_
 
-* **[NIST’s Andrew Regenscheid Explains the Transition to Post-Quantum Cryptography](https://thequantuminsider.com/2026/07/30/nist-andrew-regenscheid-post-quantum-cryptography-transition/)** 
-  _Thu, 30 Jul 2026 18:26:06 +0000_
+* **[IonQ Completes Acquisition of SkyWater Technology](https://thequantuminsider.com/2026/07/31/ionq-completes-skywater-acquisition-quantum-manufacturing/)** 
+  _Fri, 31 Jul 2026 13:31:58 +0000_
 
-* **[NRL Expands Quantum Research Efforts Across Sensing, Computing and Networking](https://thequantuminsider.com/2026/07/30/us-naval-research-laboratory-quantum-technology-research/)** 
-  _Thu, 30 Jul 2026 18:10:32 +0000_
+* **[French National Quantum Update: July 2026](https://thequantuminsider.com/2026/07/31/french-national-quantum-update-july-2026/)** 
+  _Fri, 31 Jul 2026 11:08:11 +0000_
 
 ---
