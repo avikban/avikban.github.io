@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 01, 2026
+# 🚀 Daily Tech Pulse: August 02, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
+* **[Two Hands Corporation Begins External Beta Testing for EntangleX Quantum Simulator](https://quantumcomputingreport.com/two-hands-corporation-begins-external-beta-testing-for-entanglex-quantum-simulator/)** 
+  _Sat, 01 Aug 2026 12:34:52 +0000_
+
+* **[IQM and Deutsche Bahn Execute Hybrid Quantum Algorithm for Railway Scheduling](https://quantumcomputingreport.com/iqm-and-deutsche-bahn-execute-hybrid-quantum-algorithm-for-railway-scheduling/)** 
+  _Sat, 01 Aug 2026 12:22:47 +0000_
+
+* **[EY Expands In-House Capabilities with On-Site Quantum Computer Hub in Canada](https://quantumcomputingreport.com/ey-expands-in-house-capabilities-with-on-site-quantum-computer-hub-in-canada/)** 
+  _Sat, 01 Aug 2026 12:09:50 +0000_
+
+* **[Gil Kalai (Hebrew University / Reichman University): Why noise may doom quantum computers](https://thequantuminsider.com/2026/08/01/gil-kalai-hebrew-university-reichman-university-why-noise-may-doom-quantum-computers/)** 
+  _Sat, 01 Aug 2026 07:00:00 +0000_
+
 * **[SEALSQ Begins Commercial Deployment of Miraex Quantum Photonics Technology](https://thequantuminsider.com/2026/07/31/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology/)** 
   _Fri, 31 Jul 2026 14:58:43 +0000_
 
 * **[IonQ Completes Acquisition of SkyWater Technology](https://thequantuminsider.com/2026/07/31/ionq-completes-skywater-acquisition-quantum-manufacturing/)** 
   _Fri, 31 Jul 2026 13:31:58 +0000_
-
-* **[French National Quantum Update: July 2026](https://thequantuminsider.com/2026/07/31/french-national-quantum-update-july-2026/)** 
-  _Fri, 31 Jul 2026 11:08:11 +0000_
 
 ---
