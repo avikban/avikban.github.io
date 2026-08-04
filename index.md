@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 03, 2026
+# 🚀 Daily Tech Pulse: August 04, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Two Hands Corporation Begins External Beta Testing for EntangleX Quantum Simulator](https://quantumcomputingreport.com/two-hands-corporation-begins-external-beta-testing-for-entanglex-quantum-simulator/)** 
-  _Sat, 01 Aug 2026 12:34:52 +0000_
+* **[Caltech and Oratomic Introduce “Mitten” qLDPC Codes for High-Throughput Quantum Computing](https://quantumcomputingreport.com/caltech-and-oratomic-introduce-mitten-qldpc-codes-for-high-throughput-quantum-computing/)** 
+  _Mon, 03 Aug 2026 19:28:30 +0000_
 
-* **[IQM and Deutsche Bahn Execute Hybrid Quantum Algorithm for Railway Scheduling](https://quantumcomputingreport.com/iqm-and-deutsche-bahn-execute-hybrid-quantum-algorithm-for-railway-scheduling/)** 
-  _Sat, 01 Aug 2026 12:22:47 +0000_
+* **[QNu Labs and SRMIST Establish Quantum Communications Lab to Train Educator Cohort](https://quantumcomputingreport.com/qnu-labs-and-srmist-establish-quantum-communications-lab-to-train-educator-cohort/)** 
+  _Mon, 03 Aug 2026 19:13:02 +0000_
 
-* **[EY Expands In-House Capabilities with On-Site Quantum Computer Hub in Canada](https://quantumcomputingreport.com/ey-expands-in-house-capabilities-with-on-site-quantum-computer-hub-in-canada/)** 
-  _Sat, 01 Aug 2026 12:09:50 +0000_
+* **[Rigetti, HPE, and Pittsburgh Supercomputing Center Partner to Build “TangleLab” Hybrid Testbed](https://quantumcomputingreport.com/rigetti-hpe-and-pittsburgh-supercomputing-center-partner-to-build-tanglelab-hybrid-testbed/)** 
+  _Mon, 03 Aug 2026 15:03:44 +0000_
 
-* **[Gil Kalai (Hebrew University / Reichman University): Why noise may doom quantum computers](https://thequantuminsider.com/2026/08/01/gil-kalai-hebrew-university-reichman-university-why-noise-may-doom-quantum-computers/)** 
-  _Sat, 01 Aug 2026 07:00:00 +0000_
+* **[PsiQuantum Invests $250,000 in South Chicago STEM and Quantum Education Programs](https://thequantuminsider.com/2026/08/03/psiquantum-south-chicago-training-education-quantum-workforce-development/)** 
+  _Mon, 03 Aug 2026 15:08:36 +0000_
 
-* **[SEALSQ Begins Commercial Deployment of Miraex Quantum Photonics Technology](https://thequantuminsider.com/2026/07/31/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology/)** 
-  _Fri, 31 Jul 2026 14:58:43 +0000_
+* **[Researchers Develops Carbon Quantum Dots From Organic Waste for Pest Repellent Research](https://thequantuminsider.com/2026/08/03/green-science-alliance-carbon-quantum-dots-organic-waste-pest-repellent/)** 
+  _Mon, 03 Aug 2026 14:50:13 +0000_
 
-* **[IonQ Completes Acquisition of SkyWater Technology](https://thequantuminsider.com/2026/07/31/ionq-completes-skywater-acquisition-quantum-manufacturing/)** 
-  _Fri, 31 Jul 2026 13:31:58 +0000_
+* **[SEALSQ Highlights Role of Crypto-Agility in Preparing for Future Cryptographic Threats](https://thequantuminsider.com/2026/08/03/sealsq-hardware-based-crypto-agility-ai-accelerates-cryptanalysis/)** 
+  _Mon, 03 Aug 2026 13:45:56 +0000_
 
 ---
