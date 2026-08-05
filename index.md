@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 04, 2026
+# 🚀 Daily Tech Pulse: August 05, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Caltech and Oratomic Introduce “Mitten” qLDPC Codes for High-Throughput Quantum Computing](https://quantumcomputingreport.com/caltech-and-oratomic-introduce-mitten-qldpc-codes-for-high-throughput-quantum-computing/)** 
-  _Mon, 03 Aug 2026 19:28:30 +0000_
+* **[D-Wave and Nasdaq Verafin Partner to Develop Quantum Applications for Financial Crime Detection](https://quantumcomputingreport.com/d-wave-and-nasdaq-verafin-partner-to-develop-quantum-applications-for-financial-crime-detection/)** 
+  _Tue, 04 Aug 2026 09:41:58 +0000_
 
-* **[QNu Labs and SRMIST Establish Quantum Communications Lab to Train Educator Cohort](https://quantumcomputingreport.com/qnu-labs-and-srmist-establish-quantum-communications-lab-to-train-educator-cohort/)** 
-  _Mon, 03 Aug 2026 19:13:02 +0000_
+* **[OptQC and NTT Sign Capital Alliance to Build 1-Million-Qubit Optical Quantum Computer](https://quantumcomputingreport.com/optqc-and-ntt-sign-capital-alliance-to-build-1-million-qubit-optical-quantum-computer/)** 
+  _Tue, 04 Aug 2026 09:34:30 +0000_
 
-* **[Rigetti, HPE, and Pittsburgh Supercomputing Center Partner to Build “TangleLab” Hybrid Testbed](https://quantumcomputingreport.com/rigetti-hpe-and-pittsburgh-supercomputing-center-partner-to-build-tanglelab-hybrid-testbed/)** 
-  _Mon, 03 Aug 2026 15:03:44 +0000_
+* **[PsiQuantum Commits $250,000 to South Chicago Quantum Workforce Development](https://quantumcomputingreport.com/psiquantum-commits-250000-to-south-chicago-quantum-workforce-development/)** 
+  _Tue, 04 Aug 2026 09:24:33 +0000_
 
-* **[PsiQuantum Invests $250,000 in South Chicago STEM and Quantum Education Programs](https://thequantuminsider.com/2026/08/03/psiquantum-south-chicago-training-education-quantum-workforce-development/)** 
-  _Mon, 03 Aug 2026 15:08:36 +0000_
+* **[enQase and Light Rider Collaborate on Quantum-Safe Communication Infrastructure](https://thequantuminsider.com/2026/08/04/enqase-light-rider-quantum-safe-communication-infrastructure/)** 
+  _Tue, 04 Aug 2026 17:05:00 +0000_
 
-* **[Researchers Develops Carbon Quantum Dots From Organic Waste for Pest Repellent Research](https://thequantuminsider.com/2026/08/03/green-science-alliance-carbon-quantum-dots-organic-waste-pest-repellent/)** 
-  _Mon, 03 Aug 2026 14:50:13 +0000_
+* **[Quantum Corridor, Ciena and Toshiba Test 1.6 Tb/s Quantum-Safe Network Encryption](https://thequantuminsider.com/2026/08/04/quantum-corridor-ciena-toshiba-1-6-tbps-quantum-safe-optical-encryption-live-network/)** 
+  _Tue, 04 Aug 2026 14:17:23 +0000_
 
-* **[SEALSQ Highlights Role of Crypto-Agility in Preparing for Future Cryptographic Threats](https://thequantuminsider.com/2026/08/03/sealsq-hardware-based-crypto-agility-ai-accelerates-cryptanalysis/)** 
-  _Mon, 03 Aug 2026 13:45:56 +0000_
+* **[Horizon Quantum Reports Second Quarter 2026 Financial Results](https://thequantuminsider.com/2026/08/04/horizon-quantum-reports-q2-2026-financial-results/)** 
+  _Tue, 04 Aug 2026 14:02:57 +0000_
 
 ---
