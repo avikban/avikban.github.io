@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 05, 2026
+# 🚀 Daily Tech Pulse: August 06, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[D-Wave and Nasdaq Verafin Partner to Develop Quantum Applications for Financial Crime Detection](https://quantumcomputingreport.com/d-wave-and-nasdaq-verafin-partner-to-develop-quantum-applications-for-financial-crime-detection/)** 
-  _Tue, 04 Aug 2026 09:41:58 +0000_
+* **[Qarakal Quantum Unveils “Pangaea” Modular Architecture to Cut Qubit Overhead by 10X](https://quantumcomputingreport.com/qarakal-quantum-unveils-pangaea-modular-architecture-to-cut-qubit-overhead-by-10x/)** 
+  _Wed, 05 Aug 2026 13:06:45 +0000_
 
-* **[OptQC and NTT Sign Capital Alliance to Build 1-Million-Qubit Optical Quantum Computer](https://quantumcomputingreport.com/optqc-and-ntt-sign-capital-alliance-to-build-1-million-qubit-optical-quantum-computer/)** 
-  _Tue, 04 Aug 2026 09:34:30 +0000_
+* **[IonQ and Sandia National Laboratories Sign MOU to Accelerate Quantum Co-Design for National Security Applications](https://quantumcomputingreport.com/ionq-and-sandia-national-laboratories-sign-mou-to-accelerate-quantum-co-design-for-national-security-applications/)** 
+  _Wed, 05 Aug 2026 12:24:51 +0000_
 
-* **[PsiQuantum Commits $250,000 to South Chicago Quantum Workforce Development](https://quantumcomputingreport.com/psiquantum-commits-250000-to-south-chicago-quantum-workforce-development/)** 
-  _Tue, 04 Aug 2026 09:24:33 +0000_
+* **[QuiX Quantum Commercializes Alquor 2.0 Programmable Photonic Processor Platform](https://quantumcomputingreport.com/quix-quantum-commercializes-alquor-2-0-programmable-photonic-processor-platform/)** 
+  _Wed, 05 Aug 2026 12:09:59 +0000_
 
-* **[enQase and Light Rider Collaborate on Quantum-Safe Communication Infrastructure](https://thequantuminsider.com/2026/08/04/enqase-light-rider-quantum-safe-communication-infrastructure/)** 
-  _Tue, 04 Aug 2026 17:05:00 +0000_
+* **[IonQ Raises 2026 Revenue Outlook After Record Quarter Fueled by Commercial Growth, SkyWater Acquisition](https://thequantuminsider.com/2026/08/05/ionq-raises-2026-revenue-outlook-after-record-quarter-fueled-by-commercial-growth-skywater-acquisition/)** 
+  _Wed, 05 Aug 2026 21:48:07 +0000_
 
-* **[Quantum Corridor, Ciena and Toshiba Test 1.6 Tb/s Quantum-Safe Network Encryption](https://thequantuminsider.com/2026/08/04/quantum-corridor-ciena-toshiba-1-6-tbps-quantum-safe-optical-encryption-live-network/)** 
-  _Tue, 04 Aug 2026 14:17:23 +0000_
+* **[D-Wave Publishes Research on Dual-Rail Qubit Gate for Quantum Error Correction](https://thequantuminsider.com/2026/08/05/d-wave-hardware-breakthrough-quantum-error-correction-fault-tolerant-computing/)** 
+  _Wed, 05 Aug 2026 15:48:38 +0000_
 
-* **[Horizon Quantum Reports Second Quarter 2026 Financial Results](https://thequantuminsider.com/2026/08/04/horizon-quantum-reports-q2-2026-financial-results/)** 
-  _Tue, 04 Aug 2026 14:02:57 +0000_
+* **[Researchers Say New Quantum Encryption Method Can’t Be Copied](https://thequantuminsider.com/2026/08/05/researchers-say-new-quantum-encryption-method-cant-be-copied/)** 
+  _Wed, 05 Aug 2026 14:03:00 +0000_
 
 ---
