@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 08, 2026
+# 🚀 Daily Tech Pulse: August 09, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Florida Atlantic University Launches Executive Certificate in Quantum Computing Strategy](https://quantumcomputingreport.com/florida-atlantic-university-launches-executive-certificate-in-quantum-computing-strategy/)** 
-  _Fri, 07 Aug 2026 17:38:13 +0000_
-
-* **[IonQ Reports Record Q2 2026 Financial Results: Revenue Soars 287% to $80.1M, Full-Year Guidance Raised to $290M](https://quantumcomputingreport.com/ionq-reports-record-q2-2026-financial-results-revenue-soars-287-to-80-1m-full-year-guidance-raised-to-290m/)** 
-  _Fri, 07 Aug 2026 17:29:29 +0000_
-
-* **[SEC Declares Registration Statement Effective for Pasqal’s Business Combination with Bleichroeder Acquisition Corp. II](https://quantumcomputingreport.com/sec-declares-registration-statement-effective-for-pasqals-business-combination-with-bleichroeder-acquisition-corp-ii/)** 
-  _Fri, 07 Aug 2026 12:09:52 +0000_
+* **[Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike](https://thequantuminsider.com/2026/08/08/matt-kinsella-infleqtion-why-neutral-atoms-power-sensors-clocks-and-computers-alike/)** 
+  _Sat, 08 Aug 2026 19:00:00 +0000_
 
 * **[TuringQ Joins China’s IPO Pipeline as Quantum Firms Push Toward Commercialization](https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/)** 
   _Fri, 07 Aug 2026 15:39:16 +0000_
 
 * **[Post-Quantum Cryptography Timelines: When Will Organizations Migrate?](https://thequantuminsider.com/2026/08/07/post-quantum-cryptography-timelines/)** 
   _Fri, 07 Aug 2026 14:25:39 +0000_
-
-* **[QC Ware Demonstrates Hybrid Quantum-Classical Chemistry Workflow with IBM Quantum Hardware](https://thequantuminsider.com/2026/08/07/qc-ware-hybrid-quantum-classical-chemistry-workflow-ibm-quantum/)** 
-  _Fri, 07 Aug 2026 13:23:55 +0000_
 
 ---
