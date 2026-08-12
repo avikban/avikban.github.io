@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 11, 2026
+# 🚀 Daily Tech Pulse: August 12, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Quantum Computing Inc. Revenue Jumps as Acquisitions Expand Commercial Business](https://thequantuminsider.com/2026/08/10/quantum-computing-inc-revenue-jumps-as-acquisitions-expand-commercial-business/)** 
-  _Mon, 10 Aug 2026 21:35:56 +0000_
+* **[Hefei Startup and USTC Demonstrate 16-Qubit On-Chip Photonic MBQC Architecture](https://quantumcomputingreport.com/hefei-startup-and-ustc-demonstrate-16-qubit-on-chip-photonic-mbqc-architecture/)** 
+  _Tue, 11 Aug 2026 18:29:39 +0000_
 
-* **[Sizhen Chip Demonstrates Multi-Qubit Photonic Quantum States on Silicon Chip](https://thequantuminsider.com/2026/08/10/sizhen-chip-multi-qubit-photonic-quantum-states-silicon-chip/)** 
-  _Mon, 10 Aug 2026 17:48:35 +0000_
+* **[QuSecure’s QuProtect R3 PQC Platform Added to Carahsoft’s GSA Schedule Contract](https://quantumcomputingreport.com/qusecures-quprotect-r3-pqc-platform-added-to-carahsofts-gsa-schedule-contract/)** 
+  _Tue, 11 Aug 2026 17:26:46 +0000_
 
-* **[Utah Launches Quantum Initiative With New Quantum Coordination Council](https://thequantuminsider.com/2026/08/10/utah-launches-quantum-initiative/)** 
-  _Mon, 10 Aug 2026 17:15:54 +0000_
+* **[Podcast with Julien Camirand Lemyre, Chief Executive Officer & Co-founder at Nord Quantique](https://quantumcomputingreport.com/podcast-with-julien-camirand-lemyre-chief-executive-officer-co-founder-at-nord-quantique/)** 
+  _Tue, 11 Aug 2026 03:08:34 +0000_
+
+* **[Honda Invests in Quemix to Advance Quantum Computing Applications for Materials Research](https://thequantuminsider.com/2026/08/11/honda-invests-quemix-quantum-computing-materials-research/)** 
+  _Tue, 11 Aug 2026 16:29:01 +0000_
+
+* **[Cuba-Based Team Builds Open Platform Aimed at Making Quantum Computing Easier to Use](https://thequantuminsider.com/2026/08/11/cuba-based-team-builds-open-platform-aimed-at-making-quantum-computing-easier-to-use/)** 
+  _Tue, 11 Aug 2026 14:50:56 +0000_
+
+* **[QuSecure Adds Post-Quantum Cryptography Platform to Carahsoft GSA Schedule](https://thequantuminsider.com/2026/08/11/qusecure-post-quantum-cryptography-solutions-carahsoft-gsa-schedule/)** 
+  _Tue, 11 Aug 2026 14:39:03 +0000_
 
 ---
