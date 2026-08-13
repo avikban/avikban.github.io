@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 12, 2026
+# 🚀 Daily Tech Pulse: August 13, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Hefei Startup and USTC Demonstrate 16-Qubit On-Chip Photonic MBQC Architecture](https://quantumcomputingreport.com/hefei-startup-and-ustc-demonstrate-16-qubit-on-chip-photonic-mbqc-architecture/)** 
-  _Tue, 11 Aug 2026 18:29:39 +0000_
+* **[Quantinuum Reports Q2 2026 Results: Revenue Up 279% YoY, $1.7B Traditional IPO, and Oracle Cloud Integration](https://quantumcomputingreport.com/quantinuum-reports-q2-2026-results-revenue-up-279-yoy-1-7b-traditional-ipo-and-oracle-cloud-integration/)** 
+  _Wed, 12 Aug 2026 19:44:47 +0000_
 
-* **[QuSecure’s QuProtect R3 PQC Platform Added to Carahsoft’s GSA Schedule Contract](https://quantumcomputingreport.com/qusecures-quprotect-r3-pqc-platform-added-to-carahsofts-gsa-schedule-contract/)** 
-  _Tue, 11 Aug 2026 17:26:46 +0000_
+* **[Quantinuum and Oracle Partner to Bring Helios Quantum Computer to Oracle Cloud Infrastructure](https://quantumcomputingreport.com/quantinuum-and-oracle-partner-to-bring-helios-quantum-computer-to-oracle-cloud-infrastructure/)** 
+  _Wed, 12 Aug 2026 19:18:35 +0000_
 
-* **[Podcast with Julien Camirand Lemyre, Chief Executive Officer & Co-founder at Nord Quantique](https://quantumcomputingreport.com/podcast-with-julien-camirand-lemyre-chief-executive-officer-co-founder-at-nord-quantique/)** 
-  _Tue, 11 Aug 2026 03:08:34 +0000_
+* **[Davidson and Strangeworks Partner on Hybrid Quantum Defense Optimization](https://quantumcomputingreport.com/davidson-and-strangeworks-partner-on-hybrid-quantum-defense-optimization/)** 
+  _Wed, 12 Aug 2026 19:10:13 +0000_
 
-* **[Honda Invests in Quemix to Advance Quantum Computing Applications for Materials Research](https://thequantuminsider.com/2026/08/11/honda-invests-quemix-quantum-computing-materials-research/)** 
-  _Tue, 11 Aug 2026 16:29:01 +0000_
+* **[D-Wave Awarded National Research Council of Canada Funding to Advance Commercial Annealing Quantum Computing](https://thequantuminsider.com/2026/08/12/d-wave-awarded-national-research-council-of-canada-funding-to-advance-commercial-annealing-quantum-computing/)** 
+  _Wed, 12 Aug 2026 20:38:54 +0000_
 
-* **[Cuba-Based Team Builds Open Platform Aimed at Making Quantum Computing Easier to Use](https://thequantuminsider.com/2026/08/11/cuba-based-team-builds-open-platform-aimed-at-making-quantum-computing-easier-to-use/)** 
-  _Tue, 11 Aug 2026 14:50:56 +0000_
+* **[Yonsei to Install IBM Nighthawk Quantum Processor for Research and Industry Applications](https://thequantuminsider.com/2026/08/12/yonsei-quantum-initiative-ibm-nighthawk-processor-installation/)** 
+  _Wed, 12 Aug 2026 14:21:03 +0000_
 
-* **[QuSecure Adds Post-Quantum Cryptography Platform to Carahsoft GSA Schedule](https://thequantuminsider.com/2026/08/11/qusecure-post-quantum-cryptography-solutions-carahsoft-gsa-schedule/)** 
-  _Tue, 11 Aug 2026 14:39:03 +0000_
+* **[ORIENTOM and softwareQ Partner on Quantum Computing Applications for Finance](https://thequantuminsider.com/2026/08/12/orientom-softwareq-quantum-computing-finance-applications/)** 
+  _Wed, 12 Aug 2026 14:07:29 +0000_
 
 ---
