@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 16, 2026
+# 🚀 Daily Tech Pulse: August 17, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
+* **[The Company Lab Launches CO.LAB Q for Quantum Startups](https://thequantuminsider.com/2026/08/16/company-lab-launches-colab-q-for-quantum-startups/)** 
+  _Sun, 16 Aug 2026 07:00:00 +0000_
+
 * **[University of Guelph and Xanadu Partner on Quantum Computing Education](https://thequantuminsider.com/2026/08/15/university-of-guelph-xanadu-quantum-education-partnership/)** 
   _Sat, 15 Aug 2026 07:00:00 +0000_
 
 * **[Dorit Dor (QBeat Ventures): What cybersecurity’s rise teaches quantum go-to-market](https://thequantuminsider.com/2026/08/15/dorit-dor-qbeat-ventures-what-cybersecuritys-rise-teaches-quantum-go-to-market/)** 
   _Sat, 15 Aug 2026 07:00:00 +0000_
-
-* **[What is Quantum Teleportation? How Quantum States Transfer Across Distance](https://thequantuminsider.com/2026/08/14/quantum-teleportation-explained/)** 
-  _Fri, 14 Aug 2026 14:31:11 +0000_
 
 ---
