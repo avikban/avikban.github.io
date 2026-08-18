@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 17, 2026
+# 🚀 Daily Tech Pulse: August 18, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[The Company Lab Launches CO.LAB Q for Quantum Startups](https://thequantuminsider.com/2026/08/16/company-lab-launches-colab-q-for-quantum-startups/)** 
-  _Sun, 16 Aug 2026 07:00:00 +0000_
+* **[From Beaches to Bits to Qubits – Silicon’s Journey in Quantum Computing](https://thequantuminsider.com/2026/08/17/from-beaches-to-bits-to-qubits-silicons-journey-in-quantum-computing/)** 
+  _Mon, 17 Aug 2026 21:16:25 +0000_
 
-* **[University of Guelph and Xanadu Partner on Quantum Computing Education](https://thequantuminsider.com/2026/08/15/university-of-guelph-xanadu-quantum-education-partnership/)** 
-  _Sat, 15 Aug 2026 07:00:00 +0000_
+* **[D-Wave Appoints Kevan Krysler to Board and Audit Committee](https://thequantuminsider.com/2026/08/17/d-wave-appoints-kevan-krysler-board-audit-committee/)** 
+  _Mon, 17 Aug 2026 12:33:10 +0000_
 
-* **[Dorit Dor (QBeat Ventures): What cybersecurity’s rise teaches quantum go-to-market](https://thequantuminsider.com/2026/08/15/dorit-dor-qbeat-ventures-what-cybersecuritys-rise-teaches-quantum-go-to-market/)** 
-  _Sat, 15 Aug 2026 07:00:00 +0000_
+* **[QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors](https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/)** 
+  _Mon, 17 Aug 2026 11:08:06 +0000_
 
 ---
