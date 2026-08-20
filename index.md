@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 19, 2026
+# 🚀 Daily Tech Pulse: August 20, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[OTI Lumionics and Samsung Advanced Institute of Technology Achieve 200+ Logical Qubit Quantum Emulation on Single Server Hardware](https://quantumcomputingreport.com/oti-lumionics-and-samsung-advanced-institute-of-technology-achieve-200-logical-qubit-quantum-emulation-on-single-server-hardware/)** 
-  _Tue, 18 Aug 2026 18:04:38 +0000_
+* **[Cornell Researchers Lower Tantalum Qubit Deposition Temperature to 200°C Using Krypton Gas Sputtering](https://quantumcomputingreport.com/cornell-researchers-lower-tantalum-qubit-deposition-temperature-to-200c-using-krypton-gas-sputtering/)** 
+  _Wed, 19 Aug 2026 15:37:09 +0000_
 
-* **[Texas Quantum Partners and Samara Unveil Site Master Plan for Occam Foundry Tech Campus in Austin](https://quantumcomputingreport.com/texas-quantum-partners-and-samara-unveil-site-master-plan-for-occam-foundry-tech-campus-in-austin/)** 
-  _Tue, 18 Aug 2026 17:54:47 +0000_
+* **[EigenQ and Silicon Valley Acquisition Corp. Advance $3B SPAC Merger via Form S-4 Submission](https://quantumcomputingreport.com/eigenq-and-silicon-valley-acquisition-corp-advance-3b-spac-merger-via-form-s-4-submission/)** 
+  _Wed, 19 Aug 2026 15:17:00 +0000_
 
-* **[NTT DOCOMO Deploys Second D-Wave Production Quantum Application to Optimize Telecom Network Signaling](https://quantumcomputingreport.com/ntt-docomo-deploys-second-d-wave-production-quantum-application-to-optimize-telecom-network-signaling/)** 
-  _Tue, 18 Aug 2026 14:27:02 +0000_
+* **[Allot Leads Founding Industry and Academic Consortium to Launch Israeli Post-Quantum Communications Initiative](https://quantumcomputingreport.com/allot-leads-founding-industry-and-academic-consortium-to-launch-israeli-post-quantum-communications-initiative/)** 
+  _Wed, 19 Aug 2026 15:05:06 +0000_
 
-* **[Eclypses And Sterling Team Up to Deliver Quantum-Resistant Cryptography to Federal Government Systems](https://thequantuminsider.com/2026/08/18/eclypses-and-sterling-team-up-to-deliver-quantum-resistant-cryptography-to-federal-government-systems/)** 
-  _Tue, 18 Aug 2026 18:33:48 +0000_
+* **[Diraq Opens First U.S. Quantum Laboratory in Chicago](https://thequantuminsider.com/2026/08/19/diraq-opens-first-u-s-quantum-laboratory-in-chicago/)** 
+  _Wed, 19 Aug 2026 14:36:28 +0000_
 
-* **[Infleqtion Opens Colorado Quantum Innovation Center](https://thequantuminsider.com/2026/08/18/infleqtion-opens-quantum-innovation-center-colorado/)** 
-  _Tue, 18 Aug 2026 17:33:28 +0000_
+* **[Korean Researchers Identifies Cause of ‘Beat’ Signal in Topological Insulator Nanowires](https://thequantuminsider.com/2026/08/19/korean-researchers-source-beat-signal-topological-insulator-nanowires/)** 
+  _Wed, 19 Aug 2026 13:57:46 +0000_
 
-* **[Symmatrics Appoints Jim Garrity as Senior Vice President of Growth](https://thequantuminsider.com/2026/08/18/symmatrics-jim-garrity-expanding-leadership-team-growth/)** 
-  _Tue, 18 Aug 2026 14:46:44 +0000_
+* **[EigenQ and Silicon Valley Acquisition Corp Submit Draft S-4 for Proposed Business Combination](https://thequantuminsider.com/2026/08/19/eigenq-silicon-valley-acquisition-corp-advance-business-combination/)** 
+  _Wed, 19 Aug 2026 12:09:12 +0000_
 
 ---
