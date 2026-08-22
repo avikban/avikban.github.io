@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: August 21, 2026
+# 🚀 Daily Tech Pulse: August 22, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Texas Quantum Strategy Takes Shape at UT Dallas Summit](https://thequantuminsider.com/2026/08/20/texas-quantum-strategy-takes-shape-at-ut-dallas-summit/)** 
-  _Thu, 20 Aug 2026 19:04:49 +0000_
+* **[What Is NISQ Quantum Computing: The Current Era of Quantum Machines](https://thequantuminsider.com/2026/08/21/what-is-nisq-quantum-computing-guide/)** 
+  _Fri, 21 Aug 2026 15:36:30 +0000_
 
-* **[Quanome Technologies Forms Council to Advise on Quantum Technologies](https://thequantuminsider.com/2026/08/20/quanome-technologies-global-quantum-council-advisory-network/)** 
-  _Thu, 20 Aug 2026 15:47:28 +0000_
+* **[Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset](https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/)** 
+  _Fri, 21 Aug 2026 13:39:20 +0000_
 
-* **[Quantum Electronics Study Develops Metalens for Wider-Range Imaging](https://thequantuminsider.com/2026/08/20/quantum-optics-compact-metalens-imaging/)** 
-  _Thu, 20 Aug 2026 14:30:10 +0000_
+* **[Berkeley Lab-Led Project Secures Funding to Develop a Transportable Muon Imager](https://thequantuminsider.com/2026/08/21/berkeley-lab-led-project-secures-funding-to-develop-a-transportable-muon-imager/)** 
+  _Fri, 21 Aug 2026 11:13:40 +0000_
 
 ---
