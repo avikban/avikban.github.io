@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 02, 2026
+# 🚀 Daily Tech Pulse: September 03, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Congressman Langworthy Introduces American Quantum Competitiveness Act (H.R. 10163)](https://quantumcomputingreport.com/congressman-langworthy-introduces-american-quantum-competitiveness-act-h-r-10163/)** 
-  _Tue, 01 Sep 2026 23:56:55 +0000_
+* **[Pasqal and True Nexus Encode Protein Gelation Structures on Neutral-Atom QPUs](https://quantumcomputingreport.com/pasqal-and-true-nexus-encode-protein-gelation-structures-on-neutral-atom-qpus/)** 
+  _Thu, 03 Sep 2026 00:32:52 +0000_
 
-* **[IonQ, NVIDIA, and qBraid Demonstrate 54% Error Reduction in Mid-Circuit Quantum Simulations](https://quantumcomputingreport.com/ionq-nvidia-and-qbraid-demonstrate-54-error-reduction-in-mid-circuit-quantum-simulations/)** 
-  _Tue, 01 Sep 2026 23:33:12 +0000_
+* **[Quobly Signs Dual Agreements with TNO and OrangeQS to Industrialize Silicon Spin Qubit Manufacturing](https://quantumcomputingreport.com/quobly-signs-dual-agreements-with-tno-and-orangeqs-to-industrialize-silicon-spin-qubit-manufacturing/)** 
+  _Wed, 02 Sep 2026 17:58:03 +0000_
 
-* **[MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship](https://quantumcomputingreport.com/mit-quantum-initiative-launches-gordon-and-betty-moore-foundation-backed-postdoctoral-fellowship/)** 
-  _Tue, 01 Sep 2026 23:21:53 +0000_
+* **[IBM Releases Nighthawk r2 QPU Featuring Active Dissipative Qubit Reset and 25x Circuit Throughput](https://quantumcomputingreport.com/ibm-releases-nighthawk-r2-qpu-featuring-active-dissipative-qubit-reset-and-25x-circuit-throughput/)** 
+  _Wed, 02 Sep 2026 17:24:50 +0000_
 
-* **[Symmatrics Launches AI and Post-Quantum Readiness Pledge](https://thequantuminsider.com/2026/09/01/symmatrics-ai-post-quantum-readiness-pledge/)** 
-  _Tue, 01 Sep 2026 16:08:57 +0000_
+* **[Quobly and TNO Partner on Silicon Spin Qubit Development](https://thequantuminsider.com/2026/09/02/quobly-tno-mou-industrialization-silicon-spin-qubits/)** 
+  _Wed, 02 Sep 2026 18:54:26 +0000_
 
-* **[Arqit, Es’hailSat and AIEE Demonstrate Quantum-Safe Satellite Communications](https://thequantuminsider.com/2026/09/01/arqit-eshailsat-aiee-quantum-safe-satellite-communications/)** 
-  _Tue, 01 Sep 2026 13:59:29 +0000_
+* **[Quandela Joins Canada’s Quantum Computing Sandbox With Photonic Quantum Platform](https://thequantuminsider.com/2026/09/02/quandela-canada-quantum-computing-sandbox-photonic-platform/)** 
+  _Wed, 02 Sep 2026 18:46:36 +0000_
 
-* **[QC Ware and IonQ Demonstrate Hybrid Quantum Chemistry Workflow for Drug Discovery](https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/)** 
-  _Tue, 01 Sep 2026 12:59:34 +0000_
+* **[Scientists Observe Einstein’s Gravity in The Quantum World](https://thequantuminsider.com/2026/09/02/scientists-observe-einsteins-gravity-in-the-quantum-world/)** 
+  _Wed, 02 Sep 2026 18:05:00 +0000_
 
 ---
