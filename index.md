@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 03, 2026
+# 🚀 Daily Tech Pulse: September 04, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Pasqal and True Nexus Encode Protein Gelation Structures on Neutral-Atom QPUs](https://quantumcomputingreport.com/pasqal-and-true-nexus-encode-protein-gelation-structures-on-neutral-atom-qpus/)** 
-  _Thu, 03 Sep 2026 00:32:52 +0000_
+* **[Quantinuum and Aramco Execute Non-Binding MoU for Energy Sector Quantum R&D](https://quantumcomputingreport.com/quantinuum-and-aramco-execute-non-binding-mou-for-energy-sector-quantum-rd/)** 
+  _Fri, 04 Sep 2026 00:15:05 +0000_
 
-* **[Quobly Signs Dual Agreements with TNO and OrangeQS to Industrialize Silicon Spin Qubit Manufacturing](https://quantumcomputingreport.com/quobly-signs-dual-agreements-with-tno-and-orangeqs-to-industrialize-silicon-spin-qubit-manufacturing/)** 
-  _Wed, 02 Sep 2026 17:58:03 +0000_
+* **[Giesecke+Devrient Joins European uPQComing Consortium to Develop Quantum-Safe eID Operating Systems](https://quantumcomputingreport.com/gieseckedevrient-joins-european-upqcoming-consortium-to-develop-quantum-safe-eid-operating-systems/)** 
+  _Thu, 03 Sep 2026 16:14:42 +0000_
 
-* **[IBM Releases Nighthawk r2 QPU Featuring Active Dissipative Qubit Reset and 25x Circuit Throughput](https://quantumcomputingreport.com/ibm-releases-nighthawk-r2-qpu-featuring-active-dissipative-qubit-reset-and-25x-circuit-throughput/)** 
-  _Wed, 02 Sep 2026 17:24:50 +0000_
+* **[SEEQC Signs MoU with Taiwan Quantum Industry Technology Promotion Office to Build Cryo-Chip Supply Chain](https://quantumcomputingreport.com/seeqc-signs-mou-with-taiwan-quantum-industry-technology-promotion-office-to-build-cryo-chip-supply-chain/)** 
+  _Thu, 03 Sep 2026 15:36:35 +0000_
 
-* **[Quobly and TNO Partner on Silicon Spin Qubit Development](https://thequantuminsider.com/2026/09/02/quobly-tno-mou-industrialization-silicon-spin-qubits/)** 
-  _Wed, 02 Sep 2026 18:54:26 +0000_
+* **[Quantinuum and Aramco Sign MOU to Explore Industrial Quantum Computing](https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/)** 
+  _Thu, 03 Sep 2026 16:03:50 +0000_
 
-* **[Quandela Joins Canada’s Quantum Computing Sandbox With Photonic Quantum Platform](https://thequantuminsider.com/2026/09/02/quandela-canada-quantum-computing-sandbox-photonic-platform/)** 
-  _Wed, 02 Sep 2026 18:46:36 +0000_
+* **[Quantum Motion Raises Additional Funding for Silicon Quantum Computing](https://thequantuminsider.com/2026/09/03/quantum-motion-additional-funding-silicon-quantum-computing/)** 
+  _Thu, 03 Sep 2026 15:45:23 +0000_
 
-* **[Scientists Observe Einstein’s Gravity in The Quantum World](https://thequantuminsider.com/2026/09/02/scientists-observe-einsteins-gravity-in-the-quantum-world/)** 
-  _Wed, 02 Sep 2026 18:05:00 +0000_
+* **[Andhra University Plans Centres of Excellence for Quantum, AI and Semiconductors](https://thequantuminsider.com/2026/09/03/andhra-university-quantum-ai-semiconductor-research-centres/)** 
+  _Thu, 03 Sep 2026 14:39:15 +0000_
 
 ---
