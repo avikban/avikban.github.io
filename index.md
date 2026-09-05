@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 04, 2026
+# 🚀 Daily Tech Pulse: September 05, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Quantinuum and Aramco Execute Non-Binding MoU for Energy Sector Quantum R&D](https://quantumcomputingreport.com/quantinuum-and-aramco-execute-non-binding-mou-for-energy-sector-quantum-rd/)** 
-  _Fri, 04 Sep 2026 00:15:05 +0000_
+* **[RIKEN Integrates QunaSys QURI SDK Enterprise into Japan’s JHPC-quantum Platform](https://quantumcomputingreport.com/riken-integrates-qunasys-quri-sdk-enterprise-into-japans-jhpc-quantum-platform/)** 
+  _Fri, 04 Sep 2026 11:58:47 +0000_
 
-* **[Giesecke+Devrient Joins European uPQComing Consortium to Develop Quantum-Safe eID Operating Systems](https://quantumcomputingreport.com/gieseckedevrient-joins-european-upqcoming-consortium-to-develop-quantum-safe-eid-operating-systems/)** 
-  _Thu, 03 Sep 2026 16:14:42 +0000_
+* **[Forschungszentrum Jülich Operates eleQtron’s JION Trapped-Ion QPU via JUNIQ Infrastructure](https://quantumcomputingreport.com/forschungszentrum-julich-operates-eleqtrons-jion-trapped-ion-qpu-via-juniq-infrastructure/)** 
+  _Fri, 04 Sep 2026 11:34:39 +0000_
 
-* **[SEEQC Signs MoU with Taiwan Quantum Industry Technology Promotion Office to Build Cryo-Chip Supply Chain](https://quantumcomputingreport.com/seeqc-signs-mou-with-taiwan-quantum-industry-technology-promotion-office-to-build-cryo-chip-supply-chain/)** 
-  _Thu, 03 Sep 2026 15:36:35 +0000_
+* **[Quantum Foundry Copenhagen and Novo Nordisk Foundation Announce 5,300 m² Fabrication Facility for Quantum Chips](https://quantumcomputingreport.com/quantum-foundry-copenhagen-and-novo-nordisk-foundation-announce-5300-m%c2%b2-fabrication-facility-for-quantum-chips/)** 
+  _Fri, 04 Sep 2026 11:08:50 +0000_
 
-* **[Quantinuum and Aramco Sign MOU to Explore Industrial Quantum Computing](https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/)** 
-  _Thu, 03 Sep 2026 16:03:50 +0000_
+* **[Europe Looks to Quantum Act to Turn Research Strength Into Industry](https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/)** 
+  _Fri, 04 Sep 2026 17:59:10 +0000_
 
-* **[Quantum Motion Raises Additional Funding for Silicon Quantum Computing](https://thequantuminsider.com/2026/09/03/quantum-motion-additional-funding-silicon-quantum-computing/)** 
-  _Thu, 03 Sep 2026 15:45:23 +0000_
+* **[Quantum Computing Challenges Holding Back Practical Quantum Computers](https://thequantuminsider.com/2026/09/04/main-challenges-facing-quantum-computing/)** 
+  _Fri, 04 Sep 2026 15:05:17 +0000_
 
-* **[Andhra University Plans Centres of Excellence for Quantum, AI and Semiconductors](https://thequantuminsider.com/2026/09/03/andhra-university-quantum-ai-semiconductor-research-centres/)** 
-  _Thu, 03 Sep 2026 14:39:15 +0000_
+* **[QuFi Launches Post-Quantum Verification Platform for Digital Assets](https://thequantuminsider.com/2026/09/04/qufi-post-quantum-verification-platform-digital-assets/)** 
+  _Fri, 04 Sep 2026 13:54:09 +0000_
 
 ---
