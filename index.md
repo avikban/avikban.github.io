@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 06, 2026
+# 🚀 Daily Tech Pulse: September 07, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -22,13 +22,13 @@
 * **[Forschungszentrum Jülich Operates eleQtron’s JION Trapped-Ion QPU via JUNIQ Infrastructure](https://quantumcomputingreport.com/forschungszentrum-julich-operates-eleqtrons-jion-trapped-ion-qpu-via-juniq-infrastructure/)** 
   _Fri, 04 Sep 2026 11:34:39 +0000_
 
+* **[NEC Halts Development of Quantum Computer Hardware](https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/)** 
+  _Sun, 06 Sep 2026 18:34:34 +0000_
+
 * **[Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress](https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/)** 
   _Sat, 05 Sep 2026 07:00:00 +0000_
 
 * **[Europe Looks to Quantum Act to Turn Research Strength Into Industry](https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/)** 
   _Fri, 04 Sep 2026 17:59:10 +0000_
-
-* **[Quantum Computing Challenges Holding Back Practical Quantum Computers](https://thequantuminsider.com/2026/09/04/main-challenges-facing-quantum-computing/)** 
-  _Fri, 04 Sep 2026 15:05:17 +0000_
 
 ---
