@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 07, 2026
+# 🚀 Daily Tech Pulse: September 08, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
+* **[NEC Discontinues Superconducting Quantum Computer Development to Focus on Annealing and Classical Emulation](https://quantumcomputingreport.com/nec-discontinues-superconducting-quantum-computer-development-to-focus-on-annealing-and-classical-emulation/)** 
+  _Mon, 07 Sep 2026 15:26:49 +0000_
+
 * **[Who’s News: Strategic Appointments at QuIC, Atom Computing, and Qilimanjaro Quantum Tech](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quic-atom-computing-and-qilimanjaro-quantum-tech/)** 
   _Sat, 05 Sep 2026 01:17:36 +0000_
 
 * **[RIKEN Integrates QunaSys QURI SDK Enterprise into Japan’s JHPC-quantum Platform](https://quantumcomputingreport.com/riken-integrates-qunasys-quri-sdk-enterprise-into-japans-jhpc-quantum-platform/)** 
   _Fri, 04 Sep 2026 11:58:47 +0000_
 
-* **[Forschungszentrum Jülich Operates eleQtron’s JION Trapped-Ion QPU via JUNIQ Infrastructure](https://quantumcomputingreport.com/forschungszentrum-julich-operates-eleqtrons-jion-trapped-ion-qpu-via-juniq-infrastructure/)** 
-  _Fri, 04 Sep 2026 11:34:39 +0000_
+* **[India’s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization](https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/)** 
+  _Mon, 07 Sep 2026 16:53:19 +0000_
 
-* **[NEC Halts Development of Quantum Computer Hardware](https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/)** 
-  _Sun, 06 Sep 2026 18:34:34 +0000_
+* **[Guest Post: QML4Africa Highlights Growth of Africa’s Quantum Research Community](https://thequantuminsider.com/2026/09/07/qml4africa-quantum-researchers-lagos/)** 
+  _Mon, 07 Sep 2026 10:27:46 +0000_
 
-* **[Brian Gaucher (ERVA): Why engineering, not physics, now limits quantum progress](https://thequantuminsider.com/2026/09/05/brian-gaucher-erva-why-engineering-not-physics-now-limits-quantum-progress/)** 
-  _Sat, 05 Sep 2026 07:00:00 +0000_
-
-* **[Europe Looks to Quantum Act to Turn Research Strength Into Industry](https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/)** 
-  _Fri, 04 Sep 2026 17:59:10 +0000_
+* **[Sparrow Quantum Sets Record With 500 Million Usable Photons Per Second](https://thequantuminsider.com/2026/09/07/sparrow-quantum-sets-record-with-500-million-usable-photons-per-second/)** 
+  _Mon, 07 Sep 2026 07:21:59 +0000_
 
 ---
