@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 08, 2026
+# 🚀 Daily Tech Pulse: September 09, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[NEC Discontinues Superconducting Quantum Computer Development to Focus on Annealing and Classical Emulation](https://quantumcomputingreport.com/nec-discontinues-superconducting-quantum-computer-development-to-focus-on-annealing-and-classical-emulation/)** 
-  _Mon, 07 Sep 2026 15:26:49 +0000_
+* **[IonQ Uses Investor Day to Detail Superion Roadmap, SkyWater Strategy and Quantum Security Plans](https://thequantuminsider.com/2026/09/08/ionq-uses-investor-day-to-detail-superion-roadmap-skywater-strategy-and-quantum-security-plans/)** 
+  _Tue, 08 Sep 2026 18:45:21 +0000_
 
-* **[Who’s News: Strategic Appointments at QuIC, Atom Computing, and Qilimanjaro Quantum Tech](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quic-atom-computing-and-qilimanjaro-quantum-tech/)** 
-  _Sat, 05 Sep 2026 01:17:36 +0000_
+* **[Quantum Startups Among 16 Finalists Selected for Constructor Start Demo Day](https://thequantuminsider.com/2026/09/08/quantum-startups-among-16-finalists-selected-for-constructor-start-demo-day/)** 
+  _Tue, 08 Sep 2026 14:14:53 +0000_
 
-* **[RIKEN Integrates QunaSys QURI SDK Enterprise into Japan’s JHPC-quantum Platform](https://quantumcomputingreport.com/riken-integrates-qunasys-quri-sdk-enterprise-into-japans-jhpc-quantum-platform/)** 
-  _Fri, 04 Sep 2026 11:58:47 +0000_
-
-* **[India’s Global Fintech Fest 2026 to Highlight Quantum Technology, AI and Tokenization](https://thequantuminsider.com/2026/09/07/global-fintech-fest-2026-quantum-technology-ai-mumbai/)** 
-  _Mon, 07 Sep 2026 16:53:19 +0000_
-
-* **[Guest Post: QML4Africa Highlights Growth of Africa’s Quantum Research Community](https://thequantuminsider.com/2026/09/07/qml4africa-quantum-researchers-lagos/)** 
-  _Mon, 07 Sep 2026 10:27:46 +0000_
-
-* **[Sparrow Quantum Sets Record With 500 Million Usable Photons Per Second](https://thequantuminsider.com/2026/09/07/sparrow-quantum-sets-record-with-500-million-usable-photons-per-second/)** 
-  _Mon, 07 Sep 2026 07:21:59 +0000_
+* **[QUDORA Joins EuroHPC Quantum Grand Challenge With Near Field Quantum Control Project](https://thequantuminsider.com/2026/09/08/qudora-selected-eu-quantum-grand-challenge-near-field-quantum-control/)** 
+  _Tue, 08 Sep 2026 13:37:10 +0000_
 
 ---
